@@ -1,0 +1,56 @@
+==== Data Requirements 
+
+The following table provides information about the  data, its type and application area.  
+
+#Needs completion and discussion with the working group#
+
+[format="csv",options="header"]
+|===================================================
+Name, Description, Type, Area, Standards
+
+Population and Socio-Economic Statistics, , Vector, "climate health, global indicators", "CSV, WFS, GML"
+Discharge Data and Health Outcomes,, Vector,,
+Weather,, Coverage,,
+Social Vulnerability Indices,, Vector,,
+Climate Data, Predictive Models,, Coverage,,"WCS"
+Disaster Loss Data,, Vector,,
+Remotely Sensed Data,, Coverage,,
+Sensor Data,, Sensor,,
+|===================================================
+
+For the data requirements the following types of data are assumed:
+
+- *Vector*: Data that can be represented as point lines or polygons. Tabular data can be represented in vector format if there is a column that provides the geospatial coordinates.
+- *Coverage*: Usually gridded data including raster and model outputs that has a grid as a reference.
+- *Sensor*: Data is more dynamic in nature than vector and coverages, usually a time series of a sensor in particular location
+
+
+Formats and Standards  include: 
+
+[glossary]
+OASIS EDXL HAVE:: OASIS EDXL HAVE
+HL7 SDMX-HD:: HL7 SDMX-HD
+CSW:: The OGC Catalog Services for the Web provides a web interface to discover, get and update geospatial resources, including data and services.
+CSV:: Encoding to represent data in a tabular format, separated by a comma.
+GeoJSON:: Encoding for vector data written in JSON.
+GeoSPARQL:: OGC standard for representing and querying geospatial data on the Semantic Web. It extends SPARQL to allow querying of geospatial data and provides the language to represent geospatial data in RDF.
+GML:: The OGC Geography Markup Language, based on XML, is used to represent and share geospatial features. It also provides the means to define conceptual models (i.e. features types).
+GTFS:: Encoding for sharing transit data. It is composed of a set of CSV files grouped together under a zip file.
+ISO 19115 and 19139:: Geographic information — Metadata Model and XML Schema
+ISO 19117:: Geographic information — Portrayal. Specifies a conceptual schema for describing symbols, portrayal functions that map geospatial features to symbols, and the collection of symbols and portrayal functions into portrayal catalogs.
+KML:: OGC standard, formally known as Key Hole Markup Language, is an XML language for expressing geographic annotation and visualization for two-dimensional and three-dimensional representations of the Earth.
+O&M:: The OGC Observations and Measurements defines a conceptual schema for encoding observations.
+Shapefile::Esri vector data format for storing information about geographic features.
+OSM:: Open Street Map data format encoded in XML. The model is composed of nodes, ways, and relations. Usually, the file ends with .osm. If compressed then the file will end with .bz2 or .pbf.
+OWL:: The W3C Web Ontology Language, is the de facto language to encode ontologies or rich conceptual models. It is built on the RDF model.
+RDF/SKOS:: The W3C Resource Description Framework provides a language to encode ontologies (rich conceptual models) or simple controlled vocabularies (e.g. multilingual gazetteers.)
+SLD:: The OGC Styled Layer Descriptor is a standard that enables an application to configure in an XML document how to properly portray layers and legends in a WMS. It uses Symbology Ending (SE) to specify styling of features and coverages.
+SOS:: The OGC Sensor Observation Service provides a web interface to query sensors systems and data from sensors.
+SPARQL:: W3C recommended language to query RDF resources.
+WCS:: The OGC Web Coverage Service provides a web interface for querying coverages (i.e. digital geospatial information that varies in space and time).
+WFS:: The OGC Web Feature Service provides a web interface for querying and updating geographical features (i.e. vector data).
+WMS:: The OGC Web Map Service Interface Standard provides a web interface for requesting map images over the web. 
+WPS:: The OGC Web Processing Service provides a web interface to run processes (e.g. classification, buffer, clipping, and geocoding).
+
+
+

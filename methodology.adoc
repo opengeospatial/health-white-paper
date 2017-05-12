@@ -1,0 +1,14 @@
+// currently not included
+For each area the following methodology was undertaken:
+ 
+1. Introduction explaining the application area  
+2. Use Case Scenarios
+3. Data Requirements (Health and Non-Health Data)
+4. Relevant OGC and Non-OGC Standards
+
+For the data requirements the following types of data are assumed:
+
+- *Vector*: Data that can be represented as point lines or polygons. Tabular data can be represented in vector format if there is a column that provides the geospatial coordinates.
+- *Coverages*: Usually gridded data including raster and model outputs that has a grid as a reference.
+- *Sensor*: Data is more dynamic in nature than vector and coverages, usually a time series of a sensor in particular location
+

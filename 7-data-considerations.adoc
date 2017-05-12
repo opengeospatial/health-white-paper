@@ -1,0 +1,34 @@
+== Recommendations for Health Spatial Information Framework
+
+=== Data recommendations
+
+- *Data Security* - Data stored in the cloud needs to be highly secure (critical applications) and comply with legal constraints
+- *Data Anonymisation* -  Aggregated data needs to be  anonymized at an  appropriate level, considering national regulations on aggregation of health data at given scales. #ISO provides SDMX-HD ISO 17369:2013: non-personalized, statistical, health data schema (D4.14 WHO)-add reference#
+
+=== Conceptual model recommendations
+The INSPIRE report A Conceptual Model for Developing Interoperability Specifications in Spatial Data Infrastructures P. 40, 46, 52 provides cite:[RN759] important mode recommendations for services data and data harmonization
+
+- *Download Service Strategies* - To make data available through a download service, data is typically transformed offline to create a static view that is compliant with the interoperability target specification and respecting privacy laws.  Alternatively, data can be transformed inside the download service ‘on-the-fly’, according to previously defined mapping rules.  A third option is to use a seperate tranformation service that executes predefined or user-defined mapping.  It should be the responsibility of each data provider to choose the method and enable the necessary data transformation according to this choice.
+-  *Harmonized Schema and Use Cases* - Pursuing the principle that the SDI should bring together existing data, requirements from use case scenarios should be compared with existing ‘as-is’ data availability.  This analysis can reveal whether the requested data can be supplied by the data providers.  If so, it also shows the complexity of the related transformation work.  If there is no one-to-one relationship between the proposed harmonized schema and the theme-related datasets, data integration might be still required at the level of the data sources or by the users. An example of a harmonized model is the <<inspire-health-stats-img>> model. 
+-   *Controlled Vocabularies* -  Health data systems should put efforts on using a common controlled vocabularies. Control vocabularies might be required for treatment names and codes, environmental conditions, etc. Exiting controlled vocabularies are:
+   *  <<umls>>
+   *  <<snomed>>
+   *  <<mesh>>
+
+=== Functional  areas recommendations
+
+Building a framework requires to partition the data needs in functional requirements. The suggested functional areas are as follows:
+ 
+- data collection 
+- data access
+- data processing 
+- data publication and sharing
+- data visualization and decision support 
+- data privacy and protection
+- data discovery 
+- semantic rich metadata 
+- data from sensors 
+
+
+
+  

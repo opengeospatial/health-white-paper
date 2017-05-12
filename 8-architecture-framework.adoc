@@ -1,0 +1,2 @@
+== Architecture Framework
+#Needs discussion - Combine Eo2Heaven, image from Eddie in a 3tier architecture.#

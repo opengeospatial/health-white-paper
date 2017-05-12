@@ -1,0 +1,10 @@
+﻿@article{boulos2004towards,
+  title={Towards evidence-based, GIS-driven national spatial health information infrastructure and surveillance services in the United Kingdom},
+  author={Boulos, Maged N Kamel},
+  journal={International Journal of Health Geographics},
+  volume={3},
+  number={1},
+  pages={1},
+  year={2004},
+  publisher={BioMed Central}
+}

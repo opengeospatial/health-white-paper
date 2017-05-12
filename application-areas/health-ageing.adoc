@@ -1,0 +1,7 @@
+[[Introduction]]
+=== Health Ageing
+Some people are more vulnerable than others to climate impacts on health.  Vulnerable populations of concern include children and pregnant women, older adults, those with low income, immigrant groups, indigenous peoples, and some communities of color.  In order to address ageing populations and to reduce vulnerability, health organizations are increasingly turning to geospatial analysis to assess risk based on location, to prioritize areas for interventions.
+
+#Need references#
+
+
