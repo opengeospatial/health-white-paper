@@ -1,24 +1,11 @@
-# er_template
-This is a template proposed for Testbed-13 Engineering Reports.  The objective is for editors to check this out (Clone a version) and begin editing it with a tool such as e.g. Atom editor and Asciidoctor conversion tool.
+This Health Spatial Information Framework white paper provides a discussion about the exchange, integration, analysis, and visualization of health and non-health data to support health applications.  It will identify opportunities to advance the OGC Standards towards building a framework to support Health Spatial Data Infrastructures (SDI).
 
-Note that the files index.adoc, 0-preface.adoc, asciidoctor.css, and all files in folder _resources_ should not be modified. Please begin with file er.adoc. The file er.adoc has instructions in the form of comment. These don't need to be removed. Other files have helper texts that provide instructions.
+It is written in http://asciidoctor.org/docs/user-manual/[ASCIIDOC]
 
-It is very important that the names of the file er.adoc will not be changed, as the scripts to mass-convert all ERs fail! Ideally, you only name
+Initial page is er.adoc
 
-* er.adoc
-  * preface.adoc (don't change this)
-  * 1-summary.adoc 
-  * 2-references.adoc
-  * 3-terms.adoc
-  * 4-overview.adoc
-  * 5-example.adoc (some asciidoc syntax help. Use as many copies as you need clauses in your document)
+To suggest changes to the document you can do the following:
 
-  * annex-a.adoc  --|
-  * annex-b.adoc    |-- Use as needed
-  * annex-c.adoc  --|
+- If you are comfortable with GitHub, follow the normal procedure to suggest changes via a https://help.github.com/categories/collaborating-with-issues-and-pull-requests/[pull request]
+- https://help.github.com/articles/creating-an-issue/[Log an issue] suggesting a change
 
-  * annex-history.adoc
-  * annex-bibliography.adoc
-
-=============
-I have found the following User Guide very helpful:  http://www.methods.co.nz/asciidoc/userguide.html
