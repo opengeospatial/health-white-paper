@@ -1,10 +1,10 @@
 This Health Spatial Information Framework white paper provides a discussion about the exchange, integration, analysis, and visualization of health and non-health data to support health applications.  It will identify opportunities to advance the OGC Standards towards building a framework to support Health Spatial Data Infrastructures (SDI).
 
-The compiled PDF is available here: ogc-health-white-paper.pdf[ogc-health-white-paper.pdf]
+The compiled PDF is available here: https://github.com/opengeospatial/health-white-paper/blob/master/ogc-health-white-paper.pdf[ogc-health-white-paper.pdf]
 
-It is written in http://asciidoctor.org/docs/user-manual/[ASCIIDOC]
+It is written in http://asciidoctor.org/docs/user-manual/[ASCIIDOC].
 
-Initial page is ogc-health-white-paper.adoc[ogc-health-white-paper.adoc]
+Initial page is https://github.com/opengeospatial/health-white-paper/blob/master/ogc-health-white-paper.adoc[ogc-health-white-paper.adoc]
 
 To suggest changes to the document you can do the following:
 
