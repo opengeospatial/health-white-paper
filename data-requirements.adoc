@@ -1,4 +1,4 @@
-==== Data Requirements 
+== Data Requirements 
 
 The following table provides information about the  data, its type and application area.  
 

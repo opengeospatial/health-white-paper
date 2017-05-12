@@ -59,6 +59,8 @@ include::5b-initiatives.adoc[]
 
 include::6-intro-app-areas.adoc[]
 
+include::scenario.adoc[]
+
 include::data-requirements.adoc[]
 
 include::7-data-considerations.adoc[]

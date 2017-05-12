@@ -1,10 +1,10 @@
 [[Introduction]]
-== Application Areas and Methodology
+== Application Areas
 
 Development of an  Information framework requires understanding of the applications that the framework should support. 
 The following application areas are documented in this document:
 
-- Climate-Health 
+- Climate Health 
 - Healthy Ageing
 - Global Indicators
 - Health in the Smart City
