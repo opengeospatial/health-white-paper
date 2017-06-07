@@ -1,21 +1,21 @@
 == Summary
-This Health Spatial Information Framework white paper provides a discussion about the exchange, integration, analysis, and visualization of health and non-health data to support health applications.  It will identify opportunities to advance the OGC Standards towards building a framework to support Health Spatial Data Infrastructures (SDI).
 
-Providing the design of a Health Spatial Information Framework based on open standards will help stakeholders and users of health data as follows:
+This Health Spatial Information Framework white paper provides a discussion about the exchange, integration, analysis, and visualization of health and non-health data to support health applications. It identifies opportunities to advance the OGC Standards towards building a framework to support Health Spatial Data Infrastructures (SDIs).
 
-- *Service Providers* - to understand market needs and add value to services.
-- *Market Participants* - to understand where OGC standards can be applied to support improved health outcomes.
-- *Government and Institutes* - to understand market priorities and to design health-oriented Spatial Data Infrastructures (SDI).
-- *Standard Organizations* - to understand opportunities to develop or improved standards to support health applications.
-- *Researchers* - to have a foundation of elements for advancing research on SDI and Health related applications using OGC Standards.
+Developing a Health Spatial Information Framework based on open standards will help health data users and other stakeholders in the following ways:
 
-It builds on contributions from OGC Health DWG members, is informed by OGC Health DWG sessions from 2012-2017, including Summits in 2016 and 2017.  Four key application areas are covered, providing a good scope of market requirements and functional areas, that may be supported with OGC Standards to help build a Health Spatial Information Framework:
+* *Solution Providers* - to understand market needs and add value to services;
+* *Market Participants* - to understand where OGC standards can be applied to support improved health outcomes;
+* *Government and Institutes* - to understand market priorities and to design health-oriented SDIs;
+* *Standard Organizations* - to understand opportunities to develop or improve standards to support health applications;
+* *Researchers* - to have a foundation of elements for advancing research on SDIs and health-related applications using OGC Standards.
 
-- Climate-Health 
-- Healthy Ageing
-- Global Indicators
-- Health in the Smart City
+The paper builds on contributions from OGC Health DWG members and is informed by OGC Health DWG sessions from 2012-2017, including Summits in 2016 and 2017. Four key application areas are addressed, providing a broad scope of market requirements and functional areas:
 
+* Climate-Health
+* Healthy Aging
+* Global Indicators
+* Health in the Smart City
 
 ===	Document contributor contact points
 
@@ -27,6 +27,7 @@ All questions regarding this document should be directed to the editor or the co
 |Name |Organization
 |Luis Bermudez | OGC
 |Eddie Oldfield | Spatial Quest
+|Scott Serich | OGC
 |====================
 
 

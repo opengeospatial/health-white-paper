@@ -1,0 +1,8 @@
+[[Introduction]]
+=== Health in the Smart City
+
+Growth in the proportion of urban residents making up the global population can impact environmental sustainability, public services, economic growth and social resilience. Effective integration of human, physical, and digital systems would enable cities to be more prosperous, sustainable and resilient (cite:[RN764]).
+
+The World Health Organization (WHO) Healthy Cities project brings together hundreds of cities under its network to make health a priority on economic, social and political agendas. Boulus (cite:[RN765]) discussed the importance of Internet of Things (IoT) and geospatial analytics empowering healthy city decisions. One example is the wireless sensors connected to garbage bins to monitor trash levels in Barcelona. This not only provides data for optimization of data collection but can help minimize pollution related illnesses. Overflowing waste containers can cause bacteria to grow, pollute air and water sources, and cause respiratory diseases, salmonella, and fever among others.
+
+Mobile Health in an information technology field that advances the use of mobile devices to support health services and information. Information from mobile health and smart cities can improve healthcare and overall quality of life (cite:[RN766]).

@@ -1,38 +1,36 @@
 == Initiatives
-The following initiatives (including standards and projects) were investigate for the purpose of extracting patters and best practices to build the Health Spatial Information Framework.
+
+The following initiatives (including standards and projects) were investigate for the purpose of extracting patterns and best practices to build the Health Spatial Information Framework.
 
 [#geo-Task-eo-health]
-=== GEO Task US-09-01a Critical Earth Observations Priorities for Health Societal Benefit Area: Infectious 
-Experts under the Group on Earth Observations (GEO) supported the development of a study (cite:[RN760]) to identify Earth Observations required by communities dealing with  Infectious Diseases as part of the Health Societal Benefit Area under  Task US-09-01a. They created a database ( see Figure <<eo-diseases-img>>) to capture the relation between Earth Observations and diseases. 
+=== GEO Task US-09-01a Critical Earth Observations Priorities for Health Societal Benefit Area: Infectious
+Experts under the Group on Earth Observations (GEO) supported the development of a study (cite:[RN760]) to identify Earth Observations required by communities dealing with Infectious Diseases as part of the Health Societal Benefit Area under Task US-09-01a. They created a database (see Figure <<eo-diseases-img>>) to capture the relation between Earth Observations and diseases.
 
 [[eo-diseases-img]]
-.Database of Relations of Earth Observation Data and Diseases  
+.Database of Relations of Earth Observation Data and Diseases
 image::images/eo-health.png[width=800]
 
 [#eo4health]
-=== EEO4HEALTH
-Earth Observations for Health (http://www.earthobservations.org/activity.php?id=143[EO4HEALTH])  is a community activity under  the Group of Earth Observations (GEO 2017-2019 Work Program). Its  goal is the advancement of integrated information systems to reduce environmental health related risks. It focuses on:
+=== EO4HEALTH
+Earth Observations for Health (http://www.earthobservations.org/activity.php?id=143[EO4HEALTH])  is a community activity under the GEO 2017-2019 Work Program. Its goal is the advancement of integrated information systems to reduce environmental health related risks. It focuses on:
 
--  weather and climate extremes (e.g., heat)
--  water-related illness (e.g., cholera)
--  vector borne disease (e.g., dengue, malaria)
-
-
+*  Weather and climate extremes (e.g., heat)
+*  Water-related illness (e.g., cholera)
+*  Vector borne disease (e.g., dengue, malaria)
 
 [#eo2heaven]
 === EO2 Heaven
 
-http://www.opengeospatial.org/projects/initiatives/eo2heaven[EO2HEAVEN] was  funded by  European Commission 7th Framework Program to advance better understanding of the complex relationships between environmental changes and their impact on human health. The project  advance a system architecturte and developed  applications related to changes induced by human activities, with emphasis on atmospheric, river, lake and coastal marine pollution. The project provided recommendations on standards-based Spatial Information Infrastructure (SII) to support research of human exposure and early detection of infections (cite:[RN761]).
-
+http://www.opengeospatial.org/projects/initiatives/eo2heaven[EO2HEAVEN] was  funded by European Commission 7th Framework Program to advance better understanding of the complex relationships between environmental changes and their impact on human health. The project advanced a system architecture and developed  applications related to changes induced by human activities, with emphasis on atmospheric, river, lake and coastal marine pollution. The project provided recommendations on standards-based Spatial Information Infrastructure (SII) to support research of human exposure and early detection of infections (cite:[RN761]).
 
 [#cgdi]
-=== CGDI 
+=== CGDI
 
-The Canadian Geospatial Data Infrastructure  (http://www.nrcan.gc.ca/earth-sciences/geomatics/canadas-spatial-data-infrastructure/10783[CGDI]) implements a framework for data sharing and data integration by using standard based technologies. It has adopted many specifications addressed by ISO/TC211, OGC, FGDC and W3C in describing, publishing, visualising, accessing and manipulating geospatial resources, such as Catalog services interface, Web Map Service (WMS), Styled Layer Descriptor (SLD), Web Feature Service (WFS), Web Processing Service (WPS). These services can be chained together to implement complex tasks by the defining of the workflow process, as was done in a pandemic simulation in 2007 funded by GeoConnections and the USGS [#need reference to this simulation#]. 
+The http://www.nrcan.gc.ca/earth-sciences/geomatics/canadas-spatial-data-infrastructure/10783[Canadian Geospatial Data Infrastructure (CGDI)] implements a framework for data sharing and data integration by using standard based technologies. It has adopted many specifications addressed by ISO/TC211, OGC, FGDC and W3C in describing, publishing, visualizing, accessing and manipulating geospatial resources, such as Catalog services interface, Web Map Service (WMS), Styled Layer Descriptor (SLD), Web Feature Service (WFS), Web Processing Service (WPS). These services can be chained together to implement complex tasks by the defining of the workflow process, as was done in a pandemic simulation in 2007 funded by GeoConnections and the USGS [#need reference to this simulation#].
 
 [#inspire-health-specs]
 === INSPIRE Human Health and Safety Data Specifications
-The infrastructure for spatial information in Europe has defined the http://inspire.ec.europa.eu/Themes/119/2892[Human Health and Safety] theme. It has developed a technical guideline for data specifications on Human Health and Safety (cite:[RN762]). For example, it provides the conceptual model to share health data (See figure <<inspire-health-stats-img>>).
+The http://inspire.ec.europa.eu/[Infrastructure for spatial information in Europe] has defined the http://inspire.ec.europa.eu/Themes/119/2892[Human Health and Safety] theme, including technical guidelines for data specifications (cite:[RN762]). For example, it provides a conceptual model for the sharing of health data (See figure <<inspire-health-stats-img>>).
 
 [[inspire-health-stats-img]]
 .INSPIRE UML class for health statistical data
@@ -41,16 +39,16 @@ image::images/inspire-health-stats.png[width=800]
 
 [#geo-darma]
 === GEO-DARMA
-The Data Access for Risk Management (DARMA) initiative aims to increase the availability and accuracy of risk related information to allow decision-makers to simulate the impact of risk-reduction measures and make informed decisions about risk reduction investment. The type of risk information useful to decision-makers depends on the geographical location, the type of risk affecting the region, the local policies, and more. https://www.earthobservations.org/activity.php?id=49  [GEO-DARMA0  addresses several articles of the Sendai Framework  such as articles 24 and 25 that calls for the ”promotion and enhancement through International cooperation, including technology transfer, (of) access to and use of non sensitive data, information, as appropriate, communications and geospatial and space-based technologies and related services.”  GEO-DARMA will define end-to-end solutions that foster use of accurate Earth Observation data risk information products and services for evidence-based decision-making. 
+The https://www.earthobservations.org/activity.php?id=110[Data Access for Risk Management (DARMA)] initiative aims to increase the availability and accuracy of risk related information to allow decision-makers to simulate the impact of risk-reduction measures and make informed decisions about risk reduction investment. The type of risk information useful to decision-makers depends on the geographical location, the type of risk affecting the region, the local policies, and more. https://www.earthobservations.org/activity.php?id=49[GEO-DARMA]  addresses several articles of the Sendai Framework such as articles 24 and 25 that calls for the "promotion and enhancement through International cooperation, including technology transfer, (of) access to and use of non sensitive data, information, as appropriate, communications and geospatial and space-based technologies and related services." GEO-DARMA will define end-to-end solutions that foster use of accurate Earth Observation data risk information products and services for evidence-based decision-making.
 
 [#linked-open-data-gdr]
 === LODGD
-  
-The group _Linked Open Data for Global Disaster Risk_ (http://www.codata.org/task-groups/linked-open-data-for-global-disaster-risk-research[LODGD]) as part of the interdisciplinary Committee on Data for Science and Technology (CODATA) aims to address the challenge of management and integration of  disaster-related data for research and policy making. In its first white paper publication (cite:[RN763]), the group highlighted the importance of data interconnectivity from different scientific disciplines such as  hydrology, meteorology, climate, civil engineering, land use, and public health. CODATA is in process of producing a second white paperrelated to a Next Generation Spatial Data Infrastructure (NG-SDI). 
+
+The group http://www.codata.org/task-groups/linked-open-data-for-global-disaster-risk-research[Linked Open Data for Global Disaster Risk (LODGD)], as part of the interdisciplinary Committee on Data for Science and Technology (CODATA), aims to address the challenge of management and integration of  disaster-related data for research and policy making. In its first white paper publication (cite:[RN763]), the group highlighted the importance of data interconnectivity from different scientific disciplines such as hydrology, meteorology, climate, civil engineering, land use, and public health. CODATA is in process of producing a second white paper related to a Next Generation Spatial Data Infrastructure (NG-SDI).
 
 [#irdr-data]
 === IRDR-DATA
-The Disaster Loss Data ( http://www.irdrinternational.org/projects/data/[DATA]) project, under the umbrella of the Integrated Research on Disaster Risk (IRDR) programme, brings together stakeholders from different disciplines and sectors to study issues related to the collection, storage, and dissemination of disaster of loss data, 
+The http://www.irdrinternational.org/projects/data/[Disaster Loss Data (DATA)] project, under the umbrella of the Integrated Research on Disaster Risk (IRDR) program, brings together stakeholders from different disciplines and sectors to study issues related to the collection, storage, and dissemination of disaster of loss data,
 [#not sure how relevant is this to this paper#]
 
 [#eccma]
@@ -59,16 +57,15 @@ The Disaster Loss Data ( http://www.irdrinternational.org/projects/data/[DATA]) 
 
 [#mesh]
 === MeSH
-The Medical Subject Headings (https://www.nlm.nih.gov/mesh/[MeSH]), is the US National Library of Medicine's thesaurus. It provides a controlled vocabulary  of terminology  useful for indexing and cataloging  biomedical and pharmaceutical information.
-
+The https://www.nlm.nih.gov/mesh/[Medical Subject Headings (MeSH)] is the US National Library of Medicine's thesaurus. It provides a controlled vocabulary  of terminology  useful for indexing and cataloging biomedical and pharmaceutical information.
 
 [#snomed]
-=== SNOMED 
-The Systematized Nomenclature of Medicine (https://www.nlm.nih.gov/healthit/snomedct/[SNOMED]) provides a comprehensive controlled vocabulary for terms related to anatomy, diseases, findings, procedures, microorganisms, substances and other topics. It is used by the U.S. Federal Government systems for the electronic exchange of clinical health information. It 
+=== SNOMED
+The https://www.nlm.nih.gov/healthit/snomedct/[Systematized Nomenclature of Medicine (SNOMED)] provides a comprehensive controlled vocabulary for terms related to anatomy, diseases, findings, procedures, microorganisms, substances and other topics. It is used by the U.S. Federal Government systems for the electronic exchange of clinical health information.
 
 [#umls]
 ===  UMLS
-The Unified Medical Language System (https://www.nlm.nih.gov/research/umls/[UMLS]) provides controlled vocabularies for biomedical information and health records. Useful applications build with UMLS can enable linking of records (via codes or terms) between doctor's, care centers, pharmacies, and  insurance companies.
+The https://www.nlm.nih.gov/research/umls/[Unified Medical Language System (UMLS)] provides controlled vocabularies for biomedical information and health records. Useful applications build with UMLS can enable linking of records (via codes or terms) between doctor's, care centers, pharmacies, and  insurance companies.
 
 === UNCAP
 #can't find this reference#
