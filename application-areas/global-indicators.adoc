@@ -64,6 +64,10 @@ _Sendai Framework Indicators Related to Health_
    - D-7 Number of disruptions to health services attributed to disasters
 --
 
+However, the quality of these indicators is constrained by the quality of the data used to generate them (cite:[RN767]). When high-quality data is accessible, differences in recording can frustrate attempts at aggregation, and even when aggregation is possible, significant subgroup trends can sometimes be masked. As the authors note, the  World Health Organization (WHO) Global Reference List of 100 Core Health Indicators is a step toward alignment in reporting.
+
+The Framework and any supporting OGC Innovation Program activities should take advantage of the momentum established by these 100 indicators.
+
 *Paris Agreement on Climate Change*
 
 The Paris Agreement on Climate Change (cite:[RN758]) was held in December 2015, at the Paris Climate Conference (CoP21) by 195 countries. It highlighted that Mitigating Green House Gas (GHG) emissions and air pollution can reduce health impacts and costs.
