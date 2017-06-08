@@ -7,7 +7,8 @@
 |Date |Editor |Release | Primary clauses modified |Descriptions
 |April, 2017 |Eddie Oldfield | .1 |all |initial version
 |May 12 2017 |Luis Bermudez | .2 |all | formatted in Asciidoc, overall edits and restructuring
-|June 7, 2017 |Scott Serich | .3 |all | Performed overall general checking to prepare for issue resolutions
-|June 8, 2017 |Scott Serich | .4 |all | Resolve GitHub Issue #1
+|June 7, 2017 |Scott Serich | .3.0 |all | Performed overall general checking to prepare for issue resolutions
+|June 8, 2017 |Scott Serich | .3.1 |all | Resolve GitHub Issue #1
+|June 8, 2017 |Scott Serich | .3.2 |all | Resolve GitHub Issue #2
 
 |====================
