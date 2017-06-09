@@ -32,6 +32,7 @@ Building a framework requires to partition the data needs in functional requirem
 
 * *Data Security* - Data stored in the cloud needs to be highly secure (critical applications) and comply with legal constraints
 * *Data Anonymization* -  Aggregated data needs to be  anonymized at an  appropriate level, considering national regulations on aggregation of health data at given scales. #ISO provides SDMX-HD ISO 17369:2013: non-personalized, statistical, health data schema (D4.14 WHO)-add reference#
+** *De-Identification* - In the context of U.S. Federal health care regulation, the https://www.hhs.gov/hipaa/for-professionals/index.html[Health Insurance Portability and Accountability Act (HIPAA)] provides https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html[guidance] on methods for de-identification of protected health information (PHI). https://www.federalregister.gov/documents/2017/01/18/2017-00719/confidentiality-of-substance-use-disorder-patient-records[Protection] is also afforded to patients receiving treatment for substance abuse disorders.
 
 === Data Requirements
 
