@@ -15,6 +15,8 @@ The data challenge includes several aspects: quantity of data, consistency of da
 
 Furthermore it is important to look at how geospatial standards are used to support indicators on a spatiotemporal basis to help determine current state and plan for action related to  global disparities for health impacts from disasters and climate change. Challenges still remain on spatiotemporal understanding of health impacts (e.g. injury, illness, death) from climate change and environmental health determinants, population vulnerabilities and adaptive capacity, and other possible complex exposures (diets, lifestyles, etc).
 
+It is also worth noting that sometimes making more information available to the public can have unexpected collateral consequences. For example, , identifying cities or neighborhoods with heightened risk to asthma patients could potentially cause real estate valuations in the area to fall.
+
 This white paper, as well as potential future activities to advance the framework, will continue to be discussed at future Health DWG meetings and summits.
 
 This paper first presents and introduction and background, then discusses key application areas, and finally proposes a framework to support Health SDIs. The resulting framework will serve as the basis for agencies around the globe to support regional SDIs and to develop prototype activities under the OGC Innovation Program for further refinement of framework capabilities.

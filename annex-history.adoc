@@ -18,5 +18,6 @@
 |June 9, 2017 |Scott Serich | .3.8 |all | Resolve GitHub Issue #8
 |June 9, 2017 |Scott Serich | .3.9 |all | Resolve GitHub Issue #9
 |June 9, 2017 |Scott Serich | .3.10 |all | Resolve GitHub Issue #10
+|June 9, 2017 |Scott Serich | .3.11 |all | Resolve GitHub Issue #11
 
 |====================
