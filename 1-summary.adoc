@@ -7,8 +7,9 @@ Developing a Health Spatial Information Framework based on open standards will h
 * *Solution Providers* - to understand market needs and add value to services;
 * *Market Participants* - to understand where OGC standards can be applied to support improved health outcomes;
 * *Government and Institutes* - to understand market priorities and to design health-oriented SDIs;
-* *Standard Organizations* - to understand opportunities to develop or improve standards to support health applications;
-* *Researchers* - to have a foundation of elements for advancing research on SDIs and health-related applications using OGC Standards.
+* *Standards Organizations* - to understand opportunities to develop or improve standards to support health applications;
+* *Researchers* - to have a foundation of elements for advancing research on SDIs and health-related applications using OGC Standards;
+* *Health Systems* - to understand how such a framework could contribute to clinician point-of-care decision support and be leveraged to improve outcomes.
 
 The paper builds on contributions from OGC Health DWG members and is informed by OGC Health DWG sessions from 2012-2017, including Summits in 2016 and 2017. Four key application areas are addressed, providing a broad scope of market requirements and functional areas:
 
