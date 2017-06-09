@@ -14,3 +14,5 @@ Furthermore it is important to look at how geospatial standards are used to supp
 This white paper, as well as potential future activities to advance the framework, will continue to be discussed at future Health DWG meetings and summits.
 
 This paper first presents and introduction and background, then discusses key application areas, and finally proposes a framework to support Health SDIs. The resulting framework will serve as the basis for agencies around the globe to support regional SDIs and to develop prototype activities under the OGC Innovation Program for further refinement of framework capabilities.
+
+There is also not a defined framework for how to use geospatial data analytics to derive potential solutions to population health challenges. That is a missing link towards which this white paper hopes to serve as a first step.
