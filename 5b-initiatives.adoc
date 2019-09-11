@@ -51,10 +51,6 @@ The group http://www.codata.org/task-groups/linked-open-data-for-global-disaster
 The http://www.irdrinternational.org/projects/data/[Disaster Loss Data (DATA)] project, under the umbrella of the Integrated Research on Disaster Risk (IRDR) program, brings together stakeholders from different disciplines and sectors to study issues related to the collection, storage, and dissemination of disaster of loss data,
 [#not sure how relevant is this to this paper#]
 
-[#eccma]
-=== ECCMA ePROP
-#not sure how relevant is this to this paper#
-
 [#mesh]
 === MeSH
 The https://www.nlm.nih.gov/mesh/[Medical Subject Headings (MeSH)] is the US National Library of Medicine's thesaurus. It provides a controlled vocabulary  of terminology  useful for indexing and cataloging biomedical and pharmaceutical information.
@@ -66,10 +62,3 @@ The https://www.nlm.nih.gov/healthit/snomedct/[Systematized Nomenclature of Medi
 [#umls]
 ===  UMLS
 The https://www.nlm.nih.gov/research/umls/[Unified Medical Language System (UMLS)] provides controlled vocabularies for biomedical information and health records. Useful applications build with UMLS can enable linking of records (via codes or terms) between doctor's, care centers, pharmacies, and  insurance companies.
-
-=== UNCAP
-#can't find this reference#
-
-[#agewell]
-=== AGEWELL
-#can't find this reference#
