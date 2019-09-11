@@ -11,12 +11,13 @@ Developing a Health Spatial Information Framework based on open standards will h
 * *Researchers* - to have a foundation of elements for advancing research on SDIs and health-related applications using OGC Standards;
 * *Health Systems* - to understand how such a framework could contribute to clinician point-of-care decision support and be leveraged to improve outcomes.
 
-The paper builds on contributions from OGC Health DWG members and is informed by OGC Health DWG sessions from 2012-2017, including Summits in 2016 and 2017. Four key application areas are addressed, providing a broad scope of market requirements and functional areas:
+The paper builds on contributions from OGC Health Domain Working Group (DWG) members and is informed by OGC Health DWG sessions from 2012-2019, including Summits in 2016 and 2017. Four key application areas are addressed, providing a broad scope of market requirements and functional areas:
 
 * Climate-Health
 * Healthy Aging
 * Global Indicators
 * Health in the Smart City
+* Disaster Response Scenarios
 
 ===	Document contributor contact points
 
@@ -26,9 +27,10 @@ All questions regarding this document should be directed to the editor or the co
 [width="80%",options="header"]
 |====================
 |Name |Organization
-|Luis Bermudez | OGC
+|Luis E Bermudez | OGC
 |Eddie Oldfield | Spatial Quest
 |Scott Serich | OGC
+|Ajay K Gupta | OGC
 |====================
 
 
