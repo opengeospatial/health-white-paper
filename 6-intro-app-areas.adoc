@@ -7,6 +7,7 @@ Development of an information framework requires understanding of the applicatio
 * Healthy Aging
 * Global Indicators
 * Health in the Smart City
+* Disasters Resilience Scenario
 
 include::application-areas/climate-health.adoc[]
 
