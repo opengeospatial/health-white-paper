@@ -14,3 +14,7 @@ Research collaboratives such as the http://lancetcountdown.org/[Lancet Countdown
 * Political and broader engagement.
 
 These working groups, along with associated indicator domains, could be used to provide organizing principles for a health spatial data infrastructure or perhaps even for the overall spatial information framework itself.
+
+*Paris Agreement on Climate Change*
+
+The Paris Agreement on Climate Change (cite:[RN758]) was held in December 2015, at the Paris Climate Conference (CoP21) by 195 countries. It highlighted that Mitigating Green House Gas (GHG) emissions and air pollution can reduce health impacts and costs.
