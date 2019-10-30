@@ -32,7 +32,7 @@ Research collaboratives such as the http://lancetcountdown.org/[Lancet Countdown
 
 These thematic breakdowns, along with associated indicator domains, could be used to provide organizing principles for a health SDI or perhaps even for the overall spatial information framework itself. There were 40 indicators in 2017. In 2018, a https://sciencepolicy.colorado.edu/admin/publication_files/2018.14.pdf[revision of the indicators] led to the inclusion of a new indicator under the Public and Political Engagement breakdown called Corporate Sector Engagement in Health and Climate Change. The list of indicators from 2017 and 2018 appear in the Appendix.
 
-===Paris Agreement on Climate Change
+=== Paris Agreement on Climate Change
 
 The https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement[Paris Agreement on Climate Change] was held in December 2015, at the http://www.cop21paris.org/[2015 UN Climate Change Conference (CoP21)], held in Paris, France. It highlighted that mitigating Green House Gas (GHG) emissions and air pollution can reduce health impacts and costs. There will be a global assessment every 5 years to assess the collective progress toward achieving the purpose of the agreement and the inform other parties of individual actions.
 
