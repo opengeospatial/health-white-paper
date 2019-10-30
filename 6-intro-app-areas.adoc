@@ -14,10 +14,11 @@ Development of a Health SDI requires understanding of the use cases that the SDI
 
 Climate variability can pose significant threats to human health and well-being in the form of higher temperatures, increased extreme weather events, such as hurricanes and wildfires, decreased air quality, water shortages, and illnesses transmitted by food, water, and disease carriers such as mosquitoes and ticks. Extreme storms and temperatures can also disrupt the delivery of health services by causing damage to roads and transportation infrastructure, hospitals, clinics, wastewater treatment plants, and other facilities. Climate variability can also impact economic sectors that support health, such as energy, transportation, and agriculture. 
 
-As a case in point, there are many individuals in the U.S. who depend on electrically powered, life-saving medical devices, such as ventilators, cardiac devices, and home dialysis machines. These individuals depend on the medical devices to function properly, and therefore also depend on available and continuous electrical power. The U.S. Department of Health and Human Services (HHS) produces an https://empowermap.hhs.gov/[emPOWER map] (shown in Figure 2) that provides a visualization by region (state, county, or ZIP Code level) as well as the specific number of people in tabular form of those who depend on such devices. For instance, the U.S. state of Georgia is home to 77,930 such individuals.
+As a case in point, there are many individuals in the U.S. who depend on electrically powered, life-saving medical devices, such as ventilators, cardiac devices, and home dialysis machines. These individuals depend on the medical devices to function properly, and therefore also depend on available and continuous electrical power. The U.S. Department of Health and Human Services (HHS) produces an https://empowermap.hhs.gov/[emPOWER map] (shown below) that provides a visualization by region (state, county, or ZIP Code level) as well as the specific number of people in tabular form of those who depend on such devices. For instance, the U.S. state of Georgia is home to 77,930 such individuals.
 
 .emPOWER map for the U.S. state of Georgia.
 image::images/emPower Georgia.png[width=800]
+
 
 
 A Health SDI could help in the development of new ways to monitor, prevent, and respond to climate impacts on human health. Steps taken to prepare for climate impacts can improve health and provide other societal benefits, such as sustainable development, disaster risk reduction, and improvements in quality of life.
