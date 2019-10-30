@@ -1,20 +1,24 @@
 [[Introduction]]
 == Application Areas
 
-Development of an information framework requires understanding of the applications that the framework should support. The following application areas are included in this document:
+Development of a Health SDI requires understanding of the use cases that the SDI should support. The following use cases are included in this document:
 
 * Climate Health
 * Healthy Aging
-* Global Indicators
 * Health in the Smart City
+* Disaster Resilience 
+* Global Indicators
+* Maternal Mortality
 
 include::application-areas/climate-health.adoc[]
 
 include::application-areas/healthy-aging.adoc[]
 
+include::application-areas/health-in-the-smart-city.adoc[]
+
 include::application-areas/global-indicators.adoc[]
 
-include::application-areas/health-in-the-smart-city.adoc[]
+
 
 
 === Scenarios
