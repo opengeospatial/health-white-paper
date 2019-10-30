@@ -45,7 +45,7 @@ In https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/down
 
 [#inspire-health-specs]
 === INSPIRE Human Health and Safety Data Specifications
-The http://inspire.ec.europa.eu/[Infrastructure for spatial information in Europe] has defined the http://inspire.ec.europa.eu/Themes/119/2892[Human Health and Safety] theme, including technical guidelines for data specifications, as shown in Figure 1. (cite:[RN762]). INSPIRE has been implemented across the 28 member countries of the European Union (EU); European Free Trade Association member countries Iceland, Norway, Switzerland, and Liechtenstein; as well as the non-member states of North Macedonia, Servia, and Turkey. 
+The http://inspire.ec.europa.eu/[Infrastructure for spatial information in Europe] has defined the http://inspire.ec.europa.eu/Themes/119/2892[Human Health and Safety] theme, including technical guidelines for data specifications, as shown in Figure 1. (cite:[RN762]). INSPIRE has been https://inspire.ec.europa.eu/INSPIRE-in-your-Country[implemented] across the 28 member countries of the European Union (EU); European Free Trade Association member countries Iceland, Norway, Switzerland, and Liechtenstein; as well as the non-member states of North Macedonia, Servia, and Turkey. 
 
 [[inspire-health-stats-img]]
 .INSPIRE UML class for health statistical data
@@ -54,37 +54,28 @@ image::images/inspire-health-stats.png[width=800]
 
 [#geo-darma]
 === GEO-DARMA
-The https://www.earthobservations.org/activity.php?id=110[Data Access for Risk Management (DARMA)] initiative aims to increase the availability and accuracy of risk related information to allow decision-makers to simulate the impact of risk-reduction measures and make informed decisions about risk reduction investment. The type of risk information useful to decision-makers depends on the geographical location, the type of risk affecting the region, the local policies, and more. https://www.earthobservations.org/activity.php?id=49[GEO-DARMA]  addresses several articles of the Sendai Framework such as articles 24 and 25 that calls for the "promotion and enhancement through International cooperation, including technology transfer, (of) access to and use of non sensitive data, information, as appropriate, communications and geospatial and space-based technologies and related services." GEO-DARMA will define end-to-end solutions that foster use of accurate Earth Observation data risk information products and services for evidence-based decision-making.
+The https://www.earthobservations.org/activity.php?id=110[Data Access for Risk Management (DARMA)] initiative aims to increase the availability and accuracy of risk related information to allow decision-makers to simulate the impact of risk reduction measures and make informed decisions about risk reduction investment. The type of risk information useful to decision makers depends on the geographical location, the type of risk affecting the region (e.g., weather, natural disaster, and rapid urbanization), local policies, and more. https://www.earthobservations.org/activity.php?id=49[GEO-DARMA] addresses several articles of the Sendai Framework such as articles 24 and 25 that calls for the "promotion and enhancement through International cooperation, including technology transfer, (of) access to and use of non-sensitive data, information, as appropriate, communications and geospatial and space-based technologies and related services." GEO-DARMA will define end-to-end solutions fostering the use of accurate Earth Observation data risk information products and services for evidence-based decision making.
+
+GEO-DARMA is one of the major initiatives that is supported by space agencies as a follow-on action to the Sendai Framework for Disaster Risk Reduction 2015-2030.  Their https://www.earthobservations.org/activity.php?id=110[long-term goal] is to use EO data and EO-based risk information to increase awareness with donor agencies like The World Bank of the promise of EO solutions. There are http://ceos.org/ourwork/workinggroups/disasters/geo-darma/[3 phases] beginning with a Concept Phase and continuing to a Prototyping Phase, that aims to establish demonstrations in representative areas of the added value of using satellite data for multi-hazard DRR in an international context. The third and final phase is an Operational Phase in which GEO-DARMA is a selecting on a case-by-case basis the projects to move towards operations based on their benefits to stakeholders and sustainability. 
+
 
 [#linked-open-data-gdr]
 === LODGD
-
-The group http://www.codata.org/task-groups/linked-open-data-for-global-disaster-risk-research[Linked Open Data for Global Disaster Risk (LODGD)], as part of the interdisciplinary Committee on Data for Science and Technology (CODATA), aims to address the challenge of management and integration of  disaster-related data for research and policy making. In its first white paper publication (cite:[RN763]), the group highlighted the importance of data interconnectivity from different scientific disciplines such as hydrology, meteorology, climate, civil engineering, land use, and public health. CODATA is in process of producing a second white paper related to a Next Generation Spatial Data Infrastructure (NG-SDI).
+The http://www.codata.org/task-groups/linked-open-data-for-global-disaster-risk-research[Linked Open Data for Global Disaster Risk (LODGD)] group, as part of the interdisciplinary http://www.codata.org/[Committee on Data for Science and Technology (CODATA)], aims to address the challenge of management and integration of disaster-related data for research and policy making. This Task Group has produced http://www.codata.org/task-groups/linked-open-data-for-global-disaster-risk-research[three white papers] on this topic. In its first white paper publication (cite:[RN763]), the group highlighted the importance of data interconnectivity from different scientific disciplines such as hydrology, meteorology, climate, civil engineering, land use, and public health. CODATA produced a second white paper, titled http://www.irdrinternational.org/2019/09/17/next-generation-disaster-data-infrastructure/[“Next Generation Disaster Data Infrastructure”] stated the importance of developing an infrastructure that includes information system and services that a region can depend on to gather, process, and display disaster data to reduce the impact of natural disasters. A third expected white paper on “National Policy Study on Disaster Data around the World” is set to be published sometime in 2019.
 
 [#irdr-data]
 === IRDR-DATA
-The http://www.irdrinternational.org/projects/data/[Disaster Loss Data (DATA)] project, under the umbrella of the Integrated Research on Disaster Risk (IRDR) program, brings together stakeholders from different disciplines and sectors to study issues related to the collection, storage, and dissemination of disaster of loss data,
-[#not sure how relevant is this to this paper#]
-
-[#eccma]
-=== ECCMA ePROP
-#not sure how relevant is this to this paper#
+The http://www.irdrinternational.org/projects/data/[Disaster Loss Data (DATA)] project, under the umbrella of the http://www.irdrinternational.org/what-we-do/overview/[Integrated Research on Disaster Risk (IRDR)] program, brings together stakeholders from different disciplines and sectors to study issues related to the collection, storage, and dissemination of disaster of loss data. A http://www.irdrinternational.org/2019/09/17/next-generation-disaster-data-infrastructure/[white paper] was published established the need of disaster data collection and a data base to visualize the data. 
 
 [#mesh]
 === MeSH
-The https://www.nlm.nih.gov/mesh/[Medical Subject Headings (MeSH)] is the US National Library of Medicine's thesaurus. It provides a controlled vocabulary  of terminology  useful for indexing and cataloging biomedical and pharmaceutical information.
+The https://www.nlm.nih.gov/mesh/[Medical Subject Headings (MeSH)] is the US National Library of Medicine's thesaurus. It provides a controlled vocabulary of terminology useful for indexing and cataloging biomedical and pharmaceutical information.
 
 [#snomed]
 === SNOMED
-The https://www.nlm.nih.gov/healthit/snomedct/[Systematized Nomenclature of Medicine (SNOMED)] provides a comprehensive controlled vocabulary for terms related to anatomy, diseases, findings, procedures, microorganisms, substances and other topics. It is used by the U.S. Federal Government systems for the electronic exchange of clinical health information.
+The https://www.nlm.nih.gov/healthit/snomedct/[Systematized Nomenclature of Medicine (SNOMED)] provides a comprehensive controlled vocabulary for terms related to anatomy, diseases, findings, procedures, microorganisms, substances, and other topics. It is used by the U.S. Federal Government systems for the electronic exchange of clinical health information.
 
 [#umls]
 ===  UMLS
-The https://www.nlm.nih.gov/research/umls/[Unified Medical Language System (UMLS)] provides controlled vocabularies for biomedical information and health records. Useful applications build with UMLS can enable linking of records (via codes or terms) between doctor's, care centers, pharmacies, and  insurance companies.
+The https://www.nlm.nih.gov/research/umls/[Unified Medical Language System (UMLS)] provides controlled vocabularies for biomedical information and health records. Useful applications build with UMLS can enable linking of records (via codes or terms) between doctor's, care centers, pharmacies, and insurance companies.
 
-=== UNCAP
-#can't find this reference#
-
-[#agewell]
-=== AGEWELL
-#can't find this reference#
