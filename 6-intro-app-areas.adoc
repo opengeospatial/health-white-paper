@@ -16,9 +16,8 @@ Climate variability can pose significant threats to human health and well-being 
 
 As a case in point, there are many individuals in the U.S. who depend on electrically powered, life-saving medical devices, such as ventilators, cardiac devices, and home dialysis machines. These individuals depend on the medical devices to function properly, and therefore also depend on available and continuous electrical power. The U.S. Department of Health and Human Services (HHS) produces an https://empowermap.hhs.gov/[emPOWER map] (shown in Figure 2) that provides a visualization by region (state, county, or ZIP Code level) as well as the specific number of people in tabular form of those who depend on such devices. For instance, the U.S. state of Georgia is home to 77,930 such individuals.
 
-[[inspire-health-stats-img]]
 .emPOWER map for the U.S. state of Georgia.
-image::images/inspire-health-stats.png[width=800]
+image::images/emPower Georgia.png[width=800]
 
 
 A Health SDI could help in the development of new ways to monitor, prevent, and respond to climate impacts on human health. Steps taken to prepare for climate impacts can improve health and provide other societal benefits, such as sustainable development, disaster risk reduction, and improvements in quality of life.
