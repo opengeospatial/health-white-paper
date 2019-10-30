@@ -4,7 +4,7 @@ The following initiatives (including standards and projects) were investigate fo
 
 [#geo-Task-eo-health]
 === GEO Task US-09-01a Critical Earth Observations Priorities for Health Societal Benefit Area: Infectious
-Experts under the Group on Earth Observations (GEO) supported the development of a study (cite:[RN760]) to identify Earth Observations required to support a https://sbageotask.larc.nasa.gov/humanhealth.html[Health Societal Benefit Area (Health SBA)] under Task US-09-01a. The Health SBA was separated into three areas dealing with: 
+Experts under the https://www.earthobservations.org/index.php[Group on Earth Observations (GEO)] supported the development of a study (cite:[RN760]) to identify Earth Observations required to support a https://sbageotask.larc.nasa.gov/humanhealth.html[Health Societal Benefit Area (Health SBA)] under Task US-09-01a. The Health SBA was separated into three areas dealing with: 
 
 1.	Air Quality – focusing on air pollutants that have damaging effects on human health
 2.	Aeroallergens – focusing on airborne substances such as pollen and spores
