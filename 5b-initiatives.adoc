@@ -1,10 +1,16 @@
 == Initiatives
 
-The following initiatives (including standards and projects) were investigate for the purpose of extracting patterns and best practices to build the Health Spatial Information Framework.
+The following initiatives (including standards and projects) were investigate for the purpose of extracting patterns and best practices to build the Health Spatial Data Infrastructure.
 
 [#geo-Task-eo-health]
 === GEO Task US-09-01a Critical Earth Observations Priorities for Health Societal Benefit Area: Infectious
-Experts under the Group on Earth Observations (GEO) supported the development of a study (cite:[RN760]) to identify Earth Observations required by communities dealing with Infectious Diseases as part of the Health Societal Benefit Area under Task US-09-01a. They created a database (see Figure <<eo-diseases-img>>) to capture the relation between Earth Observations and diseases.
+Experts under the Group on Earth Observations (GEO) supported the development of a study (cite:[RN760]) to identify Earth Observations required to support a Health Societal Benefit Area (Health SBA) under Task US-09-01a. The Health SBA was separated into three areas dealing with: 
+
+1.	Air Quality – focusing on air pollutants that have damaging effects on human health
+2.	Aeroallergens – focusing on airborne substances such as pollen and spores
+3.	Infectious Disease – focusing diseases influenced by climate and environmental factors 
+
+Three teams documented requirements for Earth Observation in each of these areas.
 
 [[eo-diseases-img]]
 .Database of Relations of Earth Observation Data and Diseases
