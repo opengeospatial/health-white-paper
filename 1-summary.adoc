@@ -1,22 +1,25 @@
 == Summary
 
-This Health Spatial Information Framework white paper provides a discussion about the exchange, integration, analysis, and visualization of health and non-health data to support health applications. It identifies opportunities to advance the OGC Standards towards building a framework to support Health Spatial Data Infrastructures (SDIs).
+This Health Spatial Data Infrastructure white paper provides a discussion about the collection, exchange, integration, analysis, and visualization of health and non-health data to support health applications. Applications that address health issues at global and population level scale as well as at the local, individual patient scale. This paper identifies opportunities to advance OGC Standards towards building a framework to support Health Spatial Data Infrastructures (SDIs).
 
-Developing a Health Spatial Information Framework based on open standards will help health data users and other stakeholders in the following ways:
+Developing a Health SDI based on open standards will help health data users and other stakeholders in the following ways:
 
 * *Solution Providers* - to understand market needs and add value to services;
 * *Market Participants* - to understand where OGC standards can be applied to support improved health outcomes;
-* *Government and Institutes* - to understand market priorities and to design health-oriented SDIs;
-* *Standards Organizations* - to understand opportunities to develop or improve standards to support health applications;
+* *Government and Institutes* - to understand market priorities surrounding the need and use of data in healthcare, and to design health-oriented SDIs;
+* *Standards Organizations* - to understand opportunities to develop or improve standards to support health applications and the healthcare industry overall;
 * *Researchers* - to have a foundation of elements for advancing research on SDIs and health-related applications using OGC Standards;
-* *Health Systems* - to understand how such a framework could contribute to clinician point-of-care decision support and be leveraged to improve outcomes.
+* *Health and Medical Researchers* - to understand how geospatial analytics on health and social data sets can causes and consequences of poor health outcomes that may be in need to further research towards identifying viable treatment options, as well as advancing the research towards solutions to population health challenges;
+* *Health Systems* - to understand how such a framework could contribute to clinician point-of-care decision support and be leveraged to improve patient care and overall population health;
+* *Insurers* - to understand how geospatial analytics on health and social data sets can indicate long-term health risks of populations, as well as potential means of intervening on those risks.
 
-The paper builds on contributions from OGC Health DWG members and is informed by OGC Health DWG sessions from 2012-2017, including Summits in 2016 and 2017. Four key application areas are addressed, providing a broad scope of market requirements and functional areas:
+The paper builds on contributions from OGC Health DWG members and is informed by OGC Health DWG sessions from 2012-2019, including Summits in 2016 and 2017. The following key application areas are addressed providing a broad scope of market requirements and functional areas:
 
 * Climate-Health
 * Healthy Aging
-* Global Indicators
 * Health in the Smart City
+* Disaster Resilience
+* Global Indicators
 
 ===	Document contributor contact points
 
@@ -29,6 +32,7 @@ All questions regarding this document should be directed to the editor or the co
 |Luis Bermudez | OGC
 |Eddie Oldfield | Spatial Quest
 |Scott Serich | OGC
+|Ajay K Gupta | HSR.health
 |====================
 
 
