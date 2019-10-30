@@ -12,10 +12,6 @@ Experts under the https://www.earthobservations.org/index.php[Group on Earth Obs
 
 Three teams documented requirements for Earth Observation in each of these areas.
 
-[[eo-diseases-img]]
-.Database of Relations of Earth Observation Data and Diseases
-image::images/eo-health.png[width=800]
-
 [#eo4health]
 === EO4HEALTH
 Earth Observations for Health (http://www.earthobservations.org/activity.php?id=143[EO4HEALTH])  is a community activity under the GEO 2017-2019 Work Program. Its goal is the advancement of integrated information systems to reduce environmental health related risks, focusing on:
@@ -29,7 +25,9 @@ An https://www.earthobservations.org/documents/gwp20_22/eo_for_health_ip.pdf[Imp
 [#eo2heaven]
 === EO2 Heaven
 
-http://www.opengeospatial.org/projects/initiatives/eo2heaven[EO2HEAVEN] was  funded by European Commission 7th Framework Program to advance better understanding of the complex relationships between environmental changes and their impact on human health. The project advanced a system architecture and developed  applications related to changes induced by human activities, with emphasis on atmospheric, river, lake and coastal marine pollution. The project provided recommendations on standards-based Spatial Information Infrastructure (SII) to support research of human exposure and early detection of infections (cite:[RN761]).
+http://www.opengeospatial.org/projects/initiatives/eo2heaven[EO2HEAVEN] was funded by European Commission 7th Framework Program to advance understanding of the complex relationships between environmental changes and their impact on human health. The project advanced a system architecture and developed applications related to changes induced by human activities, with emphasis on atmospheric, river, lake, and coastal marine pollution. Recommendations on standards-based Spatial Information Infrastructure (SII) to support research of human exposure and early detection of infections (cite:[RN761]) was provided.
+
+The project started on February 1, 2010 and ended on May 31, 2013 with results published in a publication called https://www.iosb.fraunhofer.de/servlet/is/26790/D6.10_EO2HEAVEN_Book.pdf[EO2HEAVEN - Mitigating Environmental Health Risks]. The case studies that were examined were the impact of air quality on respiratory and cardiovascular diseases; relationship between industrial pollutant exposure and adverse respiratory outcomes; and the links between environmental variables and cholera. 
 
 [#cgdi]
 === CGDI
