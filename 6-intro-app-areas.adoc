@@ -176,7 +176,8 @@ Producing reliable data on maternal mortality should not be an issue considering
 
 The U.S shares its reporting challenges with Mexico, a country where misclassification of the cause of death is a major component of the maternal mortality problem. In fact, in Mexico, no single number exists for its maternal mortality rate.  Because of the inconsistencies in reporting, the rate is a range, as shown in Figure 3 below. It is no coincidence that the United States parallels Mexico’s maternal mortality rates.
 
-ADD FIGURE 3
+.Maternal Mortality in Mexico.
+image::images/MexMatDeaths.png
 
 The different reporting methods and standards make challenging – impossible – integrating all reported data to develop one concise, accurate view of Maternal mortality or any health indicator.  This makes it impossible to learn the posture of the overall health & wellbeing of a nation. If the United Nations Sustainable Development goals are to be successful, a necessary start would be to have a detailed and universally consistent reporting on the medical conditions underlying the indicators.   
 
