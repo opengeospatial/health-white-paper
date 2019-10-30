@@ -18,6 +18,11 @@ As a case in point, there are many individuals in the U.S. who depend on electri
 
 ADD FIGURE 2
 
+[[inspire-health-stats-img]]
+.INSPIRE UML class for health statistical data
+image::images/inspire-health-stats.png[width=800]
+
+
 A Health SDI could help in the development of new ways to monitor, prevent, and respond to climate impacts on human health. Steps taken to prepare for climate impacts can improve health and provide other societal benefits, such as sustainable development, disaster risk reduction, and improvements in quality of life.
 
 Applications arising from a Health SDI could help health authorities publish up-to-date maps showing various dimensions of disease, population health, and environment. Economies of scale can be leveraged when epidemiological research and health planning communities utilize a coordinated system to address inequalities in and stresses on health systems and healthcare provision, access, and promotion. Applications can be scaled up to support more sophisticated climate-health scenarios, particularly during health emergencies and for pandemic response efforts.
