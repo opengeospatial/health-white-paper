@@ -3,7 +3,7 @@
 The following initiatives (including standards and projects) were investigate for the purpose of extracting patterns and best practices to build the Health Spatial Data Infrastructure.
 
 [#geo-Task-eo-health]
-=== GEO Task US-09-01a Critical Earth Observations Priorities for Health Societal Benefit Area: Infectious
+=== GEO Task US-09-01a Critical Earth Observations Priorities for Health Societal Benefit
 Experts under the https://www.earthobservations.org/index.php[Group on Earth Observations (GEO)] supported the development of a study (cite:[RN760]) to identify Earth Observations required to support a https://sbageotask.larc.nasa.gov/humanhealth.html[Health Societal Benefit Area (Health SBA)] under Task US-09-01a. The Health SBA was separated into three areas dealing with: 
 
 1.	Air Quality – focusing on air pollutants that have damaging effects on human health
@@ -18,11 +18,13 @@ image::images/eo-health.png[width=800]
 
 [#eo4health]
 === EO4HEALTH
-Earth Observations for Health (http://www.earthobservations.org/activity.php?id=143[EO4HEALTH])  is a community activity under the GEO 2017-2019 Work Program. Its goal is the advancement of integrated information systems to reduce environmental health related risks. It focuses on:
+Earth Observations for Health (http://www.earthobservations.org/activity.php?id=143[EO4HEALTH])  is a community activity under the GEO 2017-2019 Work Program. Its goal is the advancement of integrated information systems to reduce environmental health related risks, focusing on:
 
 *  Weather and climate extremes (e.g., heat)
 *  Water-related illness (e.g., cholera)
 *  Vector borne disease (e.g., dengue, malaria)
+
+An https://www.earthobservations.org/documents/gwp20_22/eo_for_health_ip.pdf[Implementation Plan] for years 2020-2022 was developed in March 2019. 
 
 [#eo2heaven]
 === EO2 Heaven
