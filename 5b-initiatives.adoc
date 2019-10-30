@@ -32,11 +32,20 @@ The project started on February 1, 2010 and ended on May 31, 2013 with results p
 [#cgdi]
 === CGDI
 
-The http://www.nrcan.gc.ca/earth-sciences/geomatics/canadas-spatial-data-infrastructure/10783[Canadian Geospatial Data Infrastructure (CGDI)] implements a framework for data sharing and data integration by using standard based technologies. It has adopted many specifications addressed by ISO/TC211, OGC, FGDC and W3C in describing, publishing, visualizing, accessing and manipulating geospatial resources, such as Catalog services interface, Web Map Service (WMS), Styled Layer Descriptor (SLD), Web Feature Service (WFS), Web Processing Service (WPS). These services can be chained together to implement complex tasks by the defining of the workflow process, as was done in a pandemic simulation in 2007 funded by GeoConnections and the USGS [#need reference to this simulation#].
+The http://www.nrcan.gc.ca/earth-sciences/geomatics/canadas-spatial-data-infrastructure/10783[Canadian Geospatial Data Infrastructure (CGDI)] implements a framework for data sharing and data integration by using standard based technologies. It has adopted many specifications addressed by the OGC, the Federal Geographic Data Committee (FGDC), the World Wide Web Consortium (W3C), and the ISO/TC211 standards committee on Geographic Information/Geomatics in describing, publishing, visualizing, accessing and manipulating geospatial resources, such as Catalog services interface, Web Map Service (WMS), Styled Layer Descriptor (SLD), Web Feature Service (WFS), and Web Processing Service (WPS) among others. These services can be chained together to implement complex tasks by defining a workflow, as was done in a pandemic simulation in 2007 funded by GeoConnections and the U.S. Geological Survey (USGS).
+
+The collaboration between different governmental entities ensure interoperability for the CDGI. The GeoConnection program’s http://publications.gc.ca/collections/collection_2016/rncan-nrcan/M104-8-2012-eng.pdf[3 phases], listed below, were completed as of 2015: 
+
+1.	Establish and Build – to build the infrastructure of the CGDI
+2.	Evolve and Expand – focused on promoting the CGDI among user communities
+3.	Integrate and Sustain – developed the CGDI’s policies and procedures and addressing sustainability.  
+
+In https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=297880[2015], an assessment was done to see how the CDGI presented data to various government agencies. The finding determined that there was an increased use in the CDGI but with only an 80% implementation success rate. The goal was to implement it to a full 100% success rate. In https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=314606[2018], another study was conducted to establish improvement potential to the CGDI. The results presented that many organizations where not using complete CGDI services. Going forward, many organizations will develop a workflow to incorporate CGDI into their data infrastructure.
+
 
 [#inspire-health-specs]
 === INSPIRE Human Health and Safety Data Specifications
-The http://inspire.ec.europa.eu/[Infrastructure for spatial information in Europe] has defined the http://inspire.ec.europa.eu/Themes/119/2892[Human Health and Safety] theme, including technical guidelines for data specifications (cite:[RN762]). For example, it provides a conceptual model for the sharing of health data (See figure <<inspire-health-stats-img>>).
+The http://inspire.ec.europa.eu/[Infrastructure for spatial information in Europe] has defined the http://inspire.ec.europa.eu/Themes/119/2892[Human Health and Safety] theme, including technical guidelines for data specifications, as shown in Figure 1. (cite:[RN762]). INSPIRE has been implemented across the 28 member countries of the European Union (EU); European Free Trade Association member countries Iceland, Norway, Switzerland, and Liechtenstein; as well as the non-member states of North Macedonia, Servia, and Turkey. 
 
 [[inspire-health-stats-img]]
 .INSPIRE UML class for health statistical data
