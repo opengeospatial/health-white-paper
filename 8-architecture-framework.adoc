@@ -11,8 +11,9 @@ Geocoding, processing, and aggregating the curated and harvested data results in
 
 A Health SDI can provide tremendous additional value by supporting applications leveraging the data and geospatial tech to address specific challenges. The Figure below displays an overall workflow for supporting and hosting such applications.  
 
+[[Health_SDI_Complex_Architecture-img]]
 .Generalized Health SDI Architecture.
-image::images/emPower Georgia.png[width=800]
+image::images/Health_SDI_Complex_Architecture.png[width=800]
 
 
 Data from the Health SDI can be retrieved, in tabular or geographical data formats (when available), can be geocoded (when and as necessary), and prepared for analysis. Analysis of the data can include leveraging analytical tools, including commercial tools such as Tableau, or opensource tools such as R and Python. Applications based on artificial intelligence machine learning algorithms such as regression, K-Nearest Neighbors, and decision trees can be utilized to perform in depth and complex analyses of geohealth data. Additionally, spatial statistics such as spatial autocorrelation through moran's spatial K-Nearest Neighbor analyses provides information on the clustering and spatial dispersion of observations.
