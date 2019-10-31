@@ -13,6 +13,14 @@ Developing a Health SDI based on open standards will help health data users and 
 * *Health Systems* - to understand how such a framework could contribute to clinician point-of-care decision support and be leveraged to improve patient care and overall population health;
 * *Insurers* - to understand how geospatial analytics on health and social data sets can indicate long-term health risks of populations, as well as potential means of intervening on those risks.
 
+More generally, Health SDIs must become a mainstream component of the world’s healthcare infrastructure not only because of the critical and central role that health - and good health - plays in human life, but also because it is the most expensive thing that most countries spend their resources on. It is well known that the U.S. health systems is unsustainable at 20% of its GDP, but the growth rate in healthcare expenses is also unsustainable in other countries at 11% of their GDP. 
+
+The need to idenfity solutions to reduce the cost of healthcare - in developed nations and elsewhere - is important. It may also be important to realize that the solutions to reduce the cost of healthcare may not be coming from within healthcare. This is because advances in healthcare are always more expensive than any medical technology, treatments, or pharmaceutical drugs they replace. Cost control in healthcare may have to come from an information technology solution not only for the potential system-wide efficiencies such technology may be able to create, but also because its ability to integrate health data with non-health and novel data sets allowing for quick diagnosis and identification of revolutionary new population health measures that identify cost drivers as well as their solutions.  
+
+A Health SDI as a platform for analyzing geocoded health data with social data and environmental data and potentially new data sets not yet created is a natural fit, as this document will demonstrate. 
+
+== Key Applications Areas
+
 The paper builds on contributions from OGC Health DWG members and is informed by OGC Health DWG sessions from 2012-2019, including Summits in 2016 and 2017. The following key application areas are addressed providing a broad scope of market requirements and functional areas:
 
 * Climate-Health
