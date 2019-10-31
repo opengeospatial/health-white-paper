@@ -1,6 +1,6 @@
 == Health SDI Architecture Framework
 
-A generic data workflow for a Health SDI is shown in the Figure below which is aligned with the architectural approach presented in http://gsdiassociation.org/images/publications/cookbooks/SDI_Cookbook_from_Wiki_2012_update.pdf[The SDI Cookbook], developed with the support of the Global Spatial Data Infrastructure community. Alternate workflows and architectures are certainly possible to accomplish specific goals. 
+A generic data workflow for a Health SDI is shown in Figure 1 below which is aligned with the architectural approach presented in http://gsdiassociation.org/images/publications/cookbooks/SDI_Cookbook_from_Wiki_2012_update.pdf[The SDI Cookbook], developed with the support of the Global Spatial Data Infrastructure community. Alternate workflows and architectures are certainly possible to accomplish specific goals. 
 
 .Simple Health Architecture.
 image::images/Simple Health SDI Architecture.png[width=400]
@@ -9,7 +9,7 @@ The first step in building an SID is to identify providers and sources of releva
 
 Geocoding, processing, and aggregating the curated and harvested data results in a catalog, or an SDI, with a theme of health. This centralized catalog of health and non-health data that is relevant to health outcomes is valuable in and of itself. It provides an invaluable resource into population health status as well as aids research into the causes of and potential remedies for health challenges facing populations. 
 
-A Health SDI can provide tremendous additional value by supporting applications leveraging the data and geospatial tech to address specific challenges. The Figure below displays an overall workflow for supporting and hosting such applications.  
+A Health SDI can provide tremendous additional value by supporting applications leveraging the data and geospatial tech to address specific challenges. An overall workflow for supporting and hosting such applications is shown in Figure 2 below.  
 
 [[Health_SDI_Complex_Architecture-img]]
 .Generalized Health SDI Architecture.
