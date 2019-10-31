@@ -71,9 +71,10 @@ Sensor Data, "IoT, IoMT, Smart City, Sensors", Sensor, Public Health, OGC Sensor
 |===================================================
 
 For the data requirements the following types of data are assumed:
-* *	Vector: Data that can be represented as point lines or polygons. Tabular data can be represented in vector format if there is a column that provides the geospatial coordinates.
-* *	Coverage: Usually gridded data including raster and model outputs that has a grid as a reference.
-* *	Sensor: Data is more dynamic in nature than vector and coverages, usually a time series of a sensor in particular location
+
+* *Vector: Data that can be represented as point lines or polygons. Tabular data can be represented in vector format if there is a column that provides the geospatial coordinates.
+* *Coverage: Usually gridded data including raster and model outputs that has a grid as a reference.
+* *Sensor: Data is more dynamic in nature than vector and coverages, usually a time series of a sensor in particular location
 Formats and Standards include:
 
 
@@ -95,7 +96,7 @@ ISO 19115 and 19139:: Geographic information — Metadata Model and XML Sche
 ISO 19117:: Geographic information — Portrayal. Specifies a conceptual schema for describing symbols, portrayal functions that map geospatial features to symbols, and the collection of symbols and portrayal functions into portrayal catalogs.
 KML:: OGC standard, formally known as Key Hole Markup Language, is an XML language for expressing geographic annotation and visualization for two-dimensional and three-dimensional representations of the Earth.
 O&M:: The OGC Observations and Measurements defines a conceptual schema for encoding observations.
-Shapefile::Esri vector data format for storing information about geographic features.
+Shapefile:: Esri vector data format for storing information about geographic features.
 OSM:: Open Street Map data format encoded in XML. The model is composed of nodes, ways, and relations. Usually, the file ends with .osm. If compressed then the file will end with .bz2 or .pbf.
 OWL:: The W3C Web Ontology Language, is the de facto language to encode ontologies or rich conceptual models. It is built on the RDF model.
 RDF/SKOS:: The W3C Resource Description Framework provides a language to encode ontologies (rich conceptual models) or simple controlled vocabularies (e.g. multilingual gazetteers.)
