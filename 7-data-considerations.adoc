@@ -44,9 +44,9 @@ Building a framework requires to partition the data needs in functional requirem
 
 ** *Data Suppression - Data is suppressed and omitted from data analytics and visualization when N<10, e.g., when there are less than 10 patients in a ZIP code. At times, data is suppressed when N<11, in other words, an N of 10 is also suppressed.  This is to ensure de-identified data cannot be easily re-identified. 
 
-* *	Data Harvesting – By following OGC open data standards, an SDI enables the harvesting of data sets that are stored in different locations. This expands the accessibility and availability of data without duplicating the overhead associated with data storage and management.
+* *Data Harvesting – By following OGC open data standards, an SDI enables the harvesting of data sets that are stored in different locations. This expands the accessibility and availability of data without duplicating the overhead associated with data storage and management.
 
-* *	Data Analysis – Numerous tools can be made available through and housed on an SDI for the purposes of analyzing data to provide decision support and predictive capabilities – as well as pre-processing the data.  This can be as simple as a filter (such as to visualize ony those postal codes where the population exceeds 10,000 individuals) and as complex as machine learning-based artificial intelligence (AI) algorithms (such as a regression analysis to predict future adverse health events, such as a maternal mortality). 
+* *Data Analysis – Numerous tools can be made available through and housed on an SDI for the purposes of analyzing data to provide decision support and predictive capabilities – as well as pre-processing the data.  This can be as simple as a filter (such as to visualize ony those postal codes where the population exceeds 10,000 individuals) and as complex as machine learning-based artificial intelligence (AI) algorithms (such as a regression analysis to predict future adverse health events, such as a maternal mortality). 
 
 
 === Data Requirements
@@ -72,9 +72,9 @@ Sensor Data, "IoT, IoMT, Smart City, Sensors", Sensor, Public Health, OGC Sensor
 
 For the data requirements the following types of data are assumed:
 
-* *Vector: Data that can be represented as point lines or polygons. Tabular data can be represented in vector format if there is a column that provides the geospatial coordinates.
-* *Coverage: Usually gridded data including raster and model outputs that has a grid as a reference.
-* *Sensor: Data is more dynamic in nature than vector and coverages, usually a time series of a sensor in particular location
+* Vector: Data that can be represented as point lines or polygons. Tabular data can be represented in vector format if there is a column that provides the geospatial coordinates.
+* Coverage: Usually gridded data including raster and model outputs that has a grid as a reference.
+* Sensor: Data is more dynamic in nature than vector and coverages, usually a time series of a sensor in particular location
 Formats and Standards include:
 
 
