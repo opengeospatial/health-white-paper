@@ -53,33 +53,38 @@ Building a framework requires to partition the data needs in functional requirem
 
 The following table provides information about the data, its type and application area.
 
-#Needs completion and discussion with the working group#
-
 [format="csv",options="header"]
 |===================================================
-Name, Description, Type, Area, Standards
+Name, Description, Type, Application Area, Standards
 
-Population and Socio-Economic Statistics, , Vector, "climate health, global indicators", "CSV, WFS, GML"
-Discharge Data and Health Outcomes,, Vector,,
-Weather,, Coverage,,
-Social Vulnerability Indices,, Vector,,
-Climate Data, Predictive Models,, Coverage,,"WCS"
-Disaster Loss Data,, Vector,,
-Remotely Sensed Data,, Coverage,,
-Sensor Data,, Sensor,,
+Population Data, "Population Demographic Data, Global Indicators", Vector, "Climate Health, Public health, Sociology", "CSV, WFS, GML"
+Socio-economic Statistics, "Socio-economic Data, e.g., Income, Education, etc.", Vector, "Climate Health, Public Health, Sociology", "CSV, WFS, GML"
+Healthcare Cost Data, "Data on Costs of Medical Encounters, Claims Data, Vector, Public Health, "CVS, WFS"
+Healthcare Outcomes Data, Survey Data, Vector, Public Health, "CVS, WFS"
+Hospital Discharge Data, Medical Records Data, Vector, Public Health, CVS
+Social Vulnerability Indicies, Social Determinants of Health, Vector, "Public Health, Disaster Recovery","CVS, WFS" 
+Weather, Predictive Models, Coverage, "Climatology, Disaster Recovery", "CSV, WFS, WMS, GML"
+Climate Data, Predictive Models, Vector, "Public Health, Disaster Recovery, Climate Health", "CSV, WFS, WMS, GML"
+Disaster Loss Data, Data on the Impact of Natural and Man-made Disasters, Vector, "Public Health, Disaster Recovery", "WFS, WMS, WCS"
+Remotely Sensed Data, Aerial Imagery Analysis, Coverage, "Climatology, Disaster Recovery, Public Health", "WFS, WMS, WCS"
+Sensor Data, "IoT, IoMT, Smart City, Sensors", Sensor, Public Health, OGC Sensor API
 |===================================================
 
 For the data requirements the following types of data are assumed:
-
-* *Vector*: Data that can be represented as point lines or polygons. Tabular data can be represented in vector format if there is a column that provides the geospatial coordinates.
-* *Coverage*: Usually gridded data including raster and model outputs that has a grid as a reference.
-* *Sensor*: Data is more dynamic in nature than vector and coverages, usually a time series of a sensor in particular location
-
+* *	Vector: Data that can be represented as point lines or polygons. Tabular data can be represented in vector format if there is a column that provides the geospatial coordinates.
+* *	Coverage: Usually gridded data including raster and model outputs that has a grid as a reference.
+* *	Sensor: Data is more dynamic in nature than vector and coverages, usually a time series of a sensor in particular location
 Formats and Standards include:
+
 
 [glossary]
 OASIS EDXL HAVE:: OASIS EDXL HAVE
+The https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=emergency[OASIS Committee Specification Emergency Data Exchange Language (EDXL) Hospital Availability Exchange (HAVE)], released in January 2019, is an XML messaging standard primarily for exchange of information related to health facilities in the context of emergency management. HAVE supports sharing information about facility services, bed counts, operations, capacities, and resource needs so first responders, emergency managers, coordinating organizations, hospitals, care facilities, and the health community can provide each other with a coherent view of the health system.
+
+
 HL7 SDMX-HD:: HL7 SDMX-HD
+https://wiki.openmrs.org/display/docs/SDMX-HD[SDMX-HD] (Health Domain) is a WHO implementation of the ISO’s more general purpose Statistical Data and Metadata eXchange (SDMX) standard, and allows medical facilities to share and exchange medical indicators and metadata between medical organizations.
+
 CSW:: The OGC Catalog Services for the Web provides a web interface to discover, get and update geospatial resources, including data and services.
 CSV:: Encoding to represent data in a tabular format, separated by a comma.
 GeoJSON:: Encoding for vector data written in JSON.
