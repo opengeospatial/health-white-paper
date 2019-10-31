@@ -2,7 +2,8 @@
 
 A generic data workflow for a Health SDI is shown in the Figure below which is aligned with the architectural approach presented in http://gsdiassociation.org/images/publications/cookbooks/SDI_Cookbook_from_Wiki_2012_update.pdf[The SDI Cookbook], developed with the support of the Global Spatial Data Infrastructure community. Alternate workflows and architectures are certainly possible to accomplish specific goals. 
 
-Add Figure .Simple Health Architecture
+.Simple Health Architecture.
+image::images/emPower Georgia.png[width=800]
 
 The first step in building an SID is to identify providers and sources of relevant data. U.S. health datasets can be retrieved from organizations including the http://cdc.gov/[Centers for Disease Control and Prevention (CDC)], http://cms.gov/[Centers for Medicare and Medicaid Services (CMS)], and the http://hhs.gov/[Department of Health and Human Services (HHS)].  U.S. social datasets can be retrieved from the Census Bureau (Census) and http://bls.gov/[Bureau of Labor and Statistics (BLS)] among others.  Global datasets can be accessed from the https://www.un.org/en/[United Nations (U.N.)]; the https://www.who.int/[World Health Organization (WHO)] and its regional organizations, such as the https://www.paho.org/hq/index.php?lang=en[Pan American Health Organization (PAHO)]; from national level health departments and data portals, such as the https://bayanat.ae/en[Bayanat.ae] data portal of the United Arab Emirates, and a host of others. Additional sources of data include health Registries, disease-specific healthcare industry organizations and affinity-groups, university and research organizations as well as other public and private organizations that make data available for public consumption.
 
@@ -10,7 +11,9 @@ Geocoding, processing, and aggregating the curated and harvested data results in
 
 A Health SDI can provide tremendous additional value by supporting applications leveraging the data and geospatial tech to address specific challenges. The Figure below displays an overall workflow for supporting and hosting such applications.  
 
-Add Figure .Generalized Health SDI Architecture.
+.Generalized Health SDI Architecture.
+image::images/emPower Georgia.png[width=800]
+
 
 Data from the Health SDI can be retrieved, in tabular or geographical data formats (when available), can be geocoded (when and as necessary), and prepared for analysis. Analysis of the data can include leveraging analytical tools, including commercial tools such as Tableau, or opensource tools such as R and Python. Applications based on artificial intelligence machine learning algorithms such as regression, K-Nearest Neighbors, and decision trees can be utilized to perform in depth and complex analyses of geohealth data. Additionally, spatial statistics such as spatial autocorrelation through moran's spatial K-Nearest Neighbor analyses provides information on the clustering and spatial dispersion of observations.
 
