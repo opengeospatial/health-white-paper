@@ -28,6 +28,8 @@ The paper builds on contributions from OGC Health DWG members and is informed by
 * Health in the Smart City
 * Disaster Resilience
 * Global Indicators
+* Maternal Mortality
+* Pandemic Response
 
 ===	Document contributor contact points
 
