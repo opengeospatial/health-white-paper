@@ -61,7 +61,7 @@ Name, Description, Type, Application Area, Standards
 Population Data, "Population Demographic Data, Global Indicators", Vector, "Climate Health, Public health, Sociology", "CSV, WFS, GML"
 Socio-economic Statistics, "Socio-economic Data, e.g., Income, Education, etc.", Vector, "Climate Health, Public Health, Sociology", "CSV, WFS, GML"
 Healthcare Cost Data, "Data on Costs of Medical Encounters, Claims Data, Vector, Public Health, "CVS, WFS"
-Healthcare Outcomes Data, Survey Data, Vector, Public Health, "CVS, WFS"
+Healthcare Outcomes Data, Survey Data, Vector, Public Health, "CVS, WPS, WMS, WFS, SLD, WCS, heirarachical and relational schemas"
 Hospital Discharge Data, Medical Records Data, Vector, Public Health, CVS
 Social Vulnerability Indicies, Social Determinants of Health, Vector, "Public Health, Disaster Recovery","CVS, WFS" 
 Weather, Predictive Models, Coverage, "Climatology, Disaster Recovery", "CSV, WFS, WMS, GML"
