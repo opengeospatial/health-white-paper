@@ -20,6 +20,7 @@ The INSPIRE report https://inspire.ec.europa.eu/documents/conceptual-model-devel
 **  https://www.nlm.nih.gov/research/umls[UMLS]
 **  http://www.snomed.org/snomed-ct[SNOMED-CT]
 **  https://www.nlm.nih.gov/mesh[MeSH]
+**  https://www.hl7.org[HL7]
 
 === Functional areas recommendations
 
