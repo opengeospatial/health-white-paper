@@ -1,6 +1,6 @@
 == Initiatives
 
-The following initiatives (including standards and projects) were investigate for the purpose of extracting patterns and best practices to build the Health Spatial Data Infrastructure.
+Numerous initiatives (including standards and projects) within the health and geospatial domain can provide patterns and best practices for the building of a Health Spatial Data Infrastructure. Several were reviewed for this purpose and are discuss below. 
 
 [#geo-Task-eo-health]
 === GEO Task US-09-01a Critical Earth Observations Priorities for Health Societal Benefit
@@ -42,6 +42,7 @@ The collaboration between different governmental entities ensure interoperabilit
 
 In https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=297880[2015], an assessment was done to see how the CDGI presented data to various government agencies. The finding determined that there was an increased use in the CDGI but with only an 80% implementation success rate. The goal was to implement it to a full 100% success rate. In https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=314606[2018], another study was conducted to establish improvement potential to the CGDI. The results presented that many organizations where not using complete CGDI services. Going forward, many organizations will develop a workflow to incorporate CGDI into their data infrastructure.
 
+In earlier work supported by the CGDI, a Health Representation XML (HERXML) schema was designed that consists of semantic, geometric, and cartographic representation of health data. HERXML enables web-based visual representation of health data to support, among other applicaitons, policy makers and health planning efforts. 
 
 [#inspire-health-specs]
 === INSPIRE Human Health and Safety Data Specifications
