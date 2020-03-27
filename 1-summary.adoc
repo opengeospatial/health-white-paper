@@ -42,7 +42,7 @@ All questions regarding this document should be directed to the editor or the co
 |Luis Bermudez | OGC
 |Eddie Oldfield | Spatial Quest
 |Scott Serich | OGC
-|Ajay K Gupta | HSR\textit{.health}
+|Ajay K Gupta | HSR{\textit{.health}
 |====================
 
 
