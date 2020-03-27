@@ -163,6 +163,8 @@ Petiteville, I. (2017). Data Access for Risk Management (GEO-DARMA). Retrieved O
 Group on Earth Observations – Data Access for Risk Management. (n.d.). Retrieved October 9, 
 2019, from http://ceos.org/ourwork/workinggroups/disasters/geo-darma/.
 
+OGC Health Domain Working Group Wiki Page, http://external.opengeospatial.org/twiki_public/HealthDWG/WebHome
+
 Li, G., & Song, C. (n.d.). Linked Open Data for Global Disaster Risk Research - CODATA. 
 Retrieved from http://www.codata.org/task-groups/linked-open-data-for-global-disaster-risk-research
 
@@ -285,6 +287,24 @@ Oldfield, E. (2013, May 24). From Reactive to Preventative Health Care – a Rol
 Oldfield, E., & Watson, K. (2018, June 18). Coalescing Interest in Geospatial Standards for Health Domain. Retrieved from http://www.openhealthnews.com/articles/2014/coalescing-interest-geospatial-standards-health-domain.
 
 Rushton, G. (2002, December 2). Public Health, GIS, And Spatial Analytic Tools. Retrieved from https://www.annualreviews.org/doi/pdf/10.1146/annurev.publhealth.24.012902.140843.
+
+Gao, S, Mioc, D., Yi, X., Anton, F., & Oldfield, E. (2008). GEOSPATIAL SERVICES FOR DECISION SUPPORT ON PUBLIC HEALTH. 6.
+
+Gao, S., Oldfield, E., Mioc, D., Yi, X., & Anton, F. (2009). Geospatial web services and applications for infectious disease surveillance. 13–19. https://doi.org/10.2495/DMAN090021
+
+Gao, Sheng, Mioc, D., Yi, X., Anton, F., Oldfield, E., & Coleman, D. J. (2009). Towards Web-based representation and processing of health information. International Journal of Health Geographics, 8(1), 3. https://doi.org/10.1186/1476-072X-8-3
+
+Kurz, B., Yao, Y., Jiang, M., Ge, B., & Oldfield, E. (n.d.). Web Service Infrastructure for Mobile Web Mapping of Environmental, Health and Climate Change Data. 1.
+
+Madhav, N., Oppenheim, B., Gallivan, M., Mulembakani, P., Rubin, E., & Wolfe, N. (2017). Pandemics: Risks, Impacts, and Mitigation. In D. T. Jamison, H. Gelband, S. Horton, P. Jha, R. Laxminarayan, C. N. Mock, & R. Nugent (Eds.), Disease Control Priorities: Improving Health and Reducing Poverty (3rd ed.). The International Bank for Reconstruction and Development / The World Bank. http://www.ncbi.nlm.nih.gov/books/NBK525302/
+
+Ow.ly—CGDIandPublicHealth.doc uploaded by @MappingResearch (NB Lung Association). (n.d.). Retrieved March 26, 2020, from http://ow.ly/d/goa
+
+Ow.ly—ISpaper.doc uploaded by @MappingResearch (NB Lung Association). (n.d.). Retrieved March 26, 2020, from http://ow.ly/d/8ce
+
+TR272.pdf. (n.d.). Retrieved March 26, 2020, from http://www2.unb.ca/gge/Pubs/TR272.pdf
+
+
 
 
 
