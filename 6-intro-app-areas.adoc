@@ -1,7 +1,7 @@
 [[Introduction]]
 == Application Areas
 
-Development of a Health SDI requires understanding of the use cases that the SDI should support. The following use cases are included in this document:
+The development of a Health SDI requires understanding the use cases the SDI should support. The following use cases are discussed in this document:
 
 * Climate Health
 * Healthy Aging
@@ -9,6 +9,7 @@ Development of a Health SDI requires understanding of the use cases that the SDI
 * Disaster Resilience 
 * Global Indicators
 * Maternal Mortality
+* Pandemic Response
 
 == Climate Health
 
@@ -23,13 +24,13 @@ image::images/emPower Georgia.png[width=800]
 
 A Health SDI could help in the development of new ways to monitor, prevent, and respond to climate impacts on human health. Steps taken to prepare for climate impacts can improve health and provide other societal benefits, such as sustainable development, disaster risk reduction, and improvements in quality of life.
 
-Applications arising from a Health SDI could help health authorities publish up-to-date maps showing various dimensions of disease, population health, and environment. Economies of scale can be leveraged when epidemiological research and health planning communities utilize a coordinated system to address inequalities in and stresses on health systems and healthcare provision, access, and promotion. Applications can be scaled up to support more sophisticated climate-health scenarios, particularly during health emergencies and for pandemic response efforts.
+Applications arising from a Health SDI could help health authorities publish up-to-date maps showing various dimensions of disease, population health, and environment. Economies of scale can be leveraged when epidemiological research and health planning communities utilize a coordinated system to address inequalities in and stresses on health systems and healthcare provision, access, and promotion. Applications can be scaled up to support more sophisticated climate health, flood risk, and heat-event scenarios, particularly during health emergencies. The OGC Disaster Resilience pilot conducted in 2019 addressed these scenarios in part.
 
 Research collaboratives such as the http://lancetcountdown.org/[Lancet Countdown] can also inform framework development. The Lancet Countdown tracks the world’s response to climate change and health benefits that may emerge from this response. This reporting is done annually, and different indicators are evaluated and changed as needed. The Countdown proposes five thematic breakdowns:
 
 *	Climate change impacts, exposures and vulnerability;
 *	Adaption planning and resilience for health;
-*	mitigation action and health co-benefits;
+*	Mitigation action and health co-benefits;
 *	Economics and finance; and
 *	Political and broader engagement.
 
@@ -44,6 +45,8 @@ The https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreem
 Some populations are more vulnerable than others to changes in health status. Vulnerable populations of concern include children, pregnant women, those with low income, immigrant groups, indigenous peoples, communities of color, as well as older adults. It is well known that the bulk of the healthcare expenditure goes towards care for senior populations. In the U.S., 36% of healthcare spending is attributed to the 65 and over population, even though they make up only 16% of the U.S. population.   
 
 In order to address and reduce the vulnerability of aging populations, health organizations are increasingly turning to geospatial analysis to assess and prioritize areas for intervention based on location.
+
+Additional efforts to enable healthy aging were discussed in the Health DWG Summit in 2016 and include, for example, efforts that can take advantage of indoor sensors to improve the mobility of elders. Further details are available on the DWG’s Wiki page. 
 
 === Geospatial Tech to Address Costs
 
@@ -65,7 +68,9 @@ Mobile Health in an information technology field that advances the use of mobile
 
 https://www.information-age.com/smart-city-technology-123473905/[Smart Cities] provide an exciting opportunity to continue and further drive advancements in the delivery of public services improving human life. Distributed Internet-of-Things and Internet-of-Medical-Things sensors on wearables, mobile medical devices, and even perhaps implantables together with a Smart City infrastructure allow for new means of gathering data on all aspects of life-in-the-city and provide health systems new and innovative means of responding to the specific needs of individual patients.
 
-As another example, a Smart City can provide real-time monitoring of occupancy levels of inpatient and emergency room hospital beds, current stock of key medical supplies, and current clinical staffing levels at hospitals and other healthcare facilities. This also demonstrates the integration of indoor location models with sensed occupancy data leveraging the IndoorGML and SensorThings API standards. This information can aid in balancing patient counts such as from emergency ambulance transport and, further, can be used by emergency medical services providers, such as 911 systems, to direct patients to the hospital with the clinical staff best suited to treat the patient’s current condition. Up-to-date information on the status of medical facilities will also aid in transferring patients between facilities.  Enhanced visibility can also predict when medical supplies will run out, based on current stock and anticipated patient census, to automatically re-order supplies to ensure a safe, minimum level of supplies remain available.  Also, such monitoring and visibility will aid in balancing patient counts during non-disaster scenarios for hospitals with overlapping service delivery areas. 
+As another example, a Smart City can provide real-time monitoring of occupancy levels of inpatient and emergency room hospital beds, current stock of key medical supplies, and current clinical staffing levels at hospitals and other healthcare facilities, as well as contact tracing. Contact tracing has emerged as a crucial capability for tracking and controlling the transmission of an infectious disease, especially as the alternative being to lock down entire communities. The sensor infrastructure of a Smart City can allow not only tracking movement of a potentially infected individual, but also the identification of everyone who may have either come into direct contact with that individual or have been where that individual was and therefore possibly exposed to the disease. 
+
+This also demonstrates the integration of indoor location models with sensed occupancy data leveraging the IndoorGML and SensorThings API standards. This information can aid in balancing patient counts such as from emergency ambulance transport and, further, can be used by emergency medical services providers, such as 911 systems, to direct patients to the hospital with the clinical staff best suited to treat the patient’s current condition. Up-to-date information on the status of medical facilities will also aid in transferring patients between facilities.  Enhanced visibility can also predict when medical supplies will run out, based on current stock and anticipated patient census, to automatically re-order supplies to ensure a safe, minimum level of supplies remain available.  Also, such monitoring and visibility will aid in balancing patient counts during non-disaster scenarios for hospitals with overlapping service delivery areas. 
 
 Emergency and disaster response efforts will also benefit as Emergency Operations Managers will have knowledge of the specific medical supplies, clinicians, and pharmaceuticals to send and to where – greatly improving Emergency Medical Responders ability to provide medical care during a disaster. 
 
@@ -183,4 +188,32 @@ The different reporting methods and standards make challenging – impossible �
 
 Currently, without a universal standard for reporting, healthcare systems lack in uniformity with respect to reporting requirements. This can lead to challenges in patient care, confusion in expectations, the inability to communicate lessons learned and adopt best practices, which can lead to decreased national health posture. This can be easily seen through Maternal Mortality reporting, as the process of reporting deaths is significantly different both between and within countries. 
 
+== Pandemic Response
 
+The most well-known pandemic of the last Century, as well as the most devastating in terms of both loss of life and economic costs was the Spanish Flu of 1918. However, the world has experienced a handful of pandemics since (see Table # below) and as human mobility and interconnectedness grows, the ability for a novel viral strain to spread across the globe and infect populations with no previous immunity grows exponentially. 
+
+.Pandemics since 1918.
+image::images/Pandemic1.png[width=600]
+
+Adding to this list, on March 11, 2020, the World Health Organization (WHO) declared the novel strain of Coronavirus, which originated in Wuhan, China in late 2019 and is known officially as COVID-19, as a pandemic. National and international response to this pandemic have included international travel restrictions, the cancelation of nearly all large gatherings of people across the globe including public, entertainment, and sporting events – as well as  religious pilgrimages and Sunday Mass at the Vatican, as well as the quarantine and social isolation of over a billion people across a majority of the world’s countries. Addressing COVID-19 will require concerted effort from government at all levels, the private sector, as well as the public. 
+
+The Health Risk Index discussed above that was developed through the Open Geospatial Consortium’s Disaster Resilience Pilot and supported by U.S. Federal Emergency Management Agency (FEMA), is an example of an application that resides on a Health SDI that can aid a pandemic response. By leveraging the diverse sets of data within an SDI’s library, the Health Risk Index can track the Transmission Risk of the pandemic to Predict the next Hot Zones and Outbreaks of Coronavirus at the County and ZIP Codes levels within a country (pictured here for the U.S.) as well as Globally.  The prediction can leverage data such as:
+
+* Current cases
+* Disease progression
+* Population health conditions (e.g., age, chronic illness)
+* Human mobility (e.g., transportation hubs, population and business centers)
+
+.Maryland County and ZIP Code COVID-19 Transmission Risk Index as of 11:59pm EST 3/22/2020.
+image::images/Pandemic2.png[width=600]
+
+A Transmission Risk Index will enable deployment of medical resources in advance of the virus, rather than chasing the virus, and can significantly improve the ability to halt the spread of the contagion and treat the infected.
+
+In addition, such an index can also guide eventual De-Quarantine efforts, allowing the resumption of normal daily and economic activity in ‘safe’ zones – or at least zones with the least risk of a ‘second bump’ of Coronavirus cases once social interaction is resumed. Speeding the safe resumption of normal economic activity will benefit the economy, as well as reduce the risks of mental health issues associated with social isolation.
+
+The Health Risk Index can also provide guidance on where risk or mortality from the novel Coronavirus is high at multiple geographic resolutions (and shown in Figure 2 for the U.S.). By considering the underlying health status of the population, available medical resources, potential supply chain disruptions for medical equipment and resources, a Mortality Risk Index can be established that identifies both where emergency medical facilities and resources are needed as well as what contingencies need to be established to address shortcomings. 
+
+.COVID-19 Mortality Risk Index as of 11:59pm EST 3/22/2020.
+image::images/Pandemic3.png[width=600]
+
+These resources provide health systems, local governments, and Emergency Management Agencies data analytic resources to help stem the tide of Coronavirus. As another benefit, by chaining together OGC standards (such as WMS, WFS, WPS, etc), scalable visualization of case counts, disease progression, and health resources can be displayed ensuring all users have the same view of the current state of the pandemic – this enables collaboration across the globe enabling coordinated response. 
