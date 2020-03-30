@@ -23,7 +23,7 @@
 |External identifier of this OGC(R) document: http://www.opengis.net/doc/{doc-type}/{standard}/{m.n}
 |Internal reference number of this OGC(R) document:    YY-nnnrx
 |Category: OGC(R) White Paper
-|Editors:   Eddie Oldfield, Luis Bermudez
+|Editors:   Eddie Oldfield, Luis Bermudez, Ajay K. Gupta
 |===
 
 [cols = "^", frame = "none"]
