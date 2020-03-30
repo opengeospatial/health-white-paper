@@ -63,7 +63,7 @@ Geospatial technology can also identify gradations in topology and elevation in 
 
 Growth in the proportion of urban residents making up the global population can impact environmental sustainability, the availability and effectiveness of public services, economic growth and social resilience. Effective integration of human, physical, and digital systems would enable cities to be more prosperous, sustainable and resilient.
 
-The World Health Organization (WHO) https://www.who.int/healthy_settings/types/cities/en/[Healthy Cities project] brings together hundreds of cities under its network to make health a priority on economic, social, and political agendas. Boulus and Al-Shorbaji (cite:[Boulos2014])  discussed the importance of https://ij-healthgeographics.biomedcentral.com/articles/10.1186/1476-072X-13-10[Internet of Things (IoT)] and geospatial analytics empowering healthy city decisions. One example is the wireless sensors connected to garbage bins to monitor trash levels in Barcelona. This not only provides data for optimization of data collection but can help minimize pollution and sanitation related illnesses. One could theorize that trash routes could be optimized to address the heaviest use garbage bins and best avoid any overflow. Overflowing waste containers can cause bacteria to grow, pollute air and water sources, and cause respiratory diseases, salmonella, and fever among others.
+The World Health Organization (WHO) https://www.who.int/healthy_settings/types/cities/en/[Healthy Cities project] brings together hundreds of cities under its network to make health a priority on economic, social, and political agendas. Boulus and Al-Shorbaji cite:[Boulos2014]  discussed the importance of https://ij-healthgeographics.biomedcentral.com/articles/10.1186/1476-072X-13-10[Internet of Things (IoT)] and geospatial analytics empowering healthy city decisions. One example is the wireless sensors connected to garbage bins to monitor trash levels in Barcelona. This not only provides data for optimization of data collection but can help minimize pollution and sanitation related illnesses. One could theorize that trash routes could be optimized to address the heaviest use garbage bins and best avoid any overflow. Overflowing waste containers can cause bacteria to grow, pollute air and water sources, and cause respiratory diseases, salmonella, and fever among others.
 
 Mobile Health in an information technology field that advances the use of mobile devices to support health services and information. Information from mobile health and smart cities can improve healthcare and overall quality of life.
 
@@ -79,7 +79,7 @@ Leveraging Smart Cities for health applications can be a key step in advancing O
 
 === Disaster Resilience
 
-Natural and man-made disasters pose significant threats to human health in numerous ways – loss of housing, contamination of the food and water supplies, decreased air quality, exposure to pollutants, general environmental degradation, damage or force the closure of roads, airports, and other transportation infrastructure, as well as other potential impacts. Disasters can also disrupt the delivery of health services by damaging or causing the closure of hospitals, community clinics, and pharmacies or making them unavailable due to unpassable roads. An often-overlooked consequence of this is the reduced availability of prescription drugs. For many individuals, even a 1-3 day gap in medications can lead to significant and life threatening health complications. As of 2017, over 60% of Americans were on daily medications for one and often multiple chronic conditions . Therefore, maintaining channels for healthcare delivery needs to be a key part of an emergency response capability.
+Natural and man-made disasters pose significant threats to human health in numerous ways – loss of housing, contamination of the food and water supplies, decreased air quality, exposure to pollutants, general environmental degradation, damage or force the closure of roads, airports, and other transportation infrastructure, as well as other potential impacts. Disasters can also disrupt the delivery of health services by damaging or causing the closure of hospitals, community clinics, and pharmacies or making them unavailable due to unpassable roads. An often-overlooked consequence of this is the reduced availability of prescription drugs. For many individuals, even a 1-3 day gap in medications can lead to significant and life threatening health complications. As of 2017, over 60% of Americans were on daily medications for one and often multiple chronic conditions. Therefore, maintaining channels for healthcare delivery needs to be a key part of an emergency response capability.
 
 A Health SDI can support disaster resilience effort by leveraging OGC standards and geocoding health data for secure sharing among appropriate emergency response team members, health complications can be avoided, and lives can be saved that may otherwise be lost to the disaster.
 
@@ -99,19 +99,19 @@ The https://undocs.org/en/A/RES/71/276[U.N. General Assembly Resolution A/RES/71
 
 ===== Sendai Framework Indicators Related to Health
 
-- Global target A: Substantially reduce global disaster mortality by 2030, aiming to lower average per 100,000 global mortality between 2020-2030 compared with 2005-2015.
-   - A-1 (compound) Number of deaths and missing persons attributed to disasters, per 100,000 population.
-   - A-2 Number of deaths attributed to disasters, per 100,000 population.
+* Global target A: Substantially reduce global disaster mortality by 2030, aiming to lower average per 100,000 global mortality between 2020-2030 compared with 2005-2015.
+** A-1 (compound) Number of deaths and missing persons attributed to disasters, per 100,000 population.
+** A-2 Number of deaths attributed to disasters, per 100,000 population.
 
-- Global target B: Substantially reduce the number of affected people globally by 2030, aiming to lower the average global figure per 100,000 between 2020-2030 compared with 2005-2015.
-   - B-2 Number of injured or ill people attributed to disasters, per 100,000 population.
-   - B-3 Number of people whose damaged dwellings were attributed to disasters.
-   - B-4 Number of people whose destroyed dwellings were attributed to disasters.
-   - B-5 Number of people whose livelihoods were disrupted or destroyed, attributed to disasters.
+* Global target B: Substantially reduce the number of affected people globally by 2030, aiming to lower the average global figure per 100,000 between 2020-2030 compared with 2005-2015.
+** B-2 Number of injured or ill people attributed to disasters, per 100,000 population.
+** B-3 Number of people whose damaged dwellings were attributed to disasters.
+** B-4 Number of people whose destroyed dwellings were attributed to disasters.
+** B-5 Number of people whose livelihoods were disrupted or destroyed, attributed to disasters.
 
-- Global target D: Substantially reduce disaster damage to critical infrastructure and disruption of basic services, among them health and educational facilities, including through developing their resilience by 2030.
-   - D-2 Number of destroyed or damaged health facilities attributed to disasters.
-   - D-7 Number of disruptions to health services attributed to disasters
+* Global target D: Substantially reduce disaster damage to critical infrastructure and disruption of basic services, among them health and educational facilities, including through developing their resilience by 2030.
+** D-2 Number of destroyed or damaged health facilities attributed to disasters.
+** D-7 Number of disruptions to health services attributed to disasters
 
 However, the quality of these indicators is constrained by the quality of the data against which they are generated. When high-quality data is accessible, differences in recording can frustrate attempts at aggregation, and even when aggregation is possible, significant subgroup trends can sometimes be masked. As the authors note, the https://www.who.int/healthinfo/indicators/2018/en/[World Health Organization (WHO) Global Reference List of 100 Core Health Indicators] is a step toward alignment in reporting. A Health SDI should take advantage of the momentum established by these 100 indicators.
 
@@ -126,11 +126,11 @@ Another complementary tool is provided by http://www.inform-index.org/[INFORM] (
 
 === Global Indicators
 
-Various global initiatives have provided guidance towards global indicators to help monitor the status of health in populations. The initiatives include Sustainable Development Goals developed by the U.N. and the Sendai Framework for Disaster Risk Reduction.
+Various global initiatives have provided guidance towards global indicators to help monitor the status of health in populations. The initiatives include Sustainable Development Goals (SDGs) developed by the U.N. and the Sendai Framework for Disaster Risk Reduction.
 
 ==== United Nations Sustainable Development Goals
 
-At the U.N. Sustainable Development Summit 2015, 193 countries agreed on the Sustainable Development Goals (SDGs). For each goal specific objectives and targets were defined. The goal related to health is `Goal 3 Good Health and Wellbeing`. The objective of this goal is to "Ensure healthy lives and promote well-being for all at all ages". Thirteen targets and associated indicators were developed by the Interagency and Expert Group on SDG Indicators (IAEG-SDGs).
+At the U.N. Sustainable Development Summit 2015, 193 countries agreed on the SDGs. For each goal specific objectives and targets were defined. The goal related to health is `Goal 3 Good Health and Wellbeing`. The objective of this goal is to "Ensure healthy lives and promote well-being for all at all ages". Thirteen targets and associated indicators were developed by the Interagency and Expert Group on SDG Indicators (IAEG-SDGs).
 
 ===== Indicators for the Sustainable Development Goal 3 Good Health and Wellbeing
 
@@ -208,7 +208,7 @@ The most well-known pandemic of the last Century, as well as the most devastatin
 |===
 
 
-Adding to this list, on March 11, 2020, the World Health Organization (WHO) declared the novel strain of Coronavirus, which originated in Wuhan, China in late 2019 and is known officially as COVID-19, as a pandemic cite:[whoCovid19Announcement]. National and international response to this pandemic have included international travel restrictions, the cancelation of nearly all large gatherings of people across the globe including public, entertainment, and sporting events – as well as  religious pilgrimages and Sunday Mass at the Vatican, as well as the quarantine and social isolation of over a billion people across a majority of the world’s countries. Addressing COVID-19 will require concerted effort from government at all levels, the private sector, as well as the public.
+Adding to this list, on March 11, 2020, the World Health Organization (WHO) declared the outbreak caused by the novel strain of Coronavirus, which emerged in late 2019 and is known officially as COVID-19, as a pandemic cite:[whoCovid19Announcement]. National and international response to this pandemic have included international travel restrictions, the cancelation of nearly all large gatherings of people across the globe including public, entertainment, and sporting events – as well as  religious pilgrimages and Sunday Mass at the Vatican, as well as the quarantine and social isolation of over a billion people across a majority of the world’s countries. Addressing COVID-19 will require concerted effort from government at all levels, the private sector, as well as the public.
 
 The Health Risk Index discussed above that was developed through the Open Geospatial Consortium’s Disaster Resilience Pilot and supported by U.S. Federal Emergency Management Agency (FEMA), is an example of an application that resides on a Health SDI that can aid a pandemic response. By leveraging the diverse sets of data within an SDI’s library, the Health Risk Index can track the Transmission Risk of the pandemic to help Predict the next Hot Zones and Outbreaks of Coronavirus at the County and ZIP Codes levels within a country (pictured here for the U.S.) as well as Globally.  The prediction can leverage data such as:
 
@@ -231,4 +231,4 @@ The Health Risk Index can also provide guidance on where risk or mortality from 
 .COVID-19 Mortality Risk Index as of 11:59pm EST 3/22/2020.
 image::images/Pandemic3.png[width=600]
 
-These resources provide health systems, local governments, and Emergency Management Agencies data analytic resources to help stem the tide of Coronavirus. As another benefit, by chaining together OGC standards (such as WMS, WFS, WPS, etc), scalable visualization of case counts, disease progression, and health resources can be displayed ensuring all users have the same view of the current state of the pandemic – this enables collaboration across the globe enabling coordinated response.
+These resources provide health systems, local governments, and Emergency Management Agencies data analytic resources to help stem the tide of Coronavirus. As another benefit, by chaining together implementations of OGC standards (such as WMS, WFS, WPS, SOS, SensorThings API or OGC API - Features etc), scalable visualization of case counts, disease progression, and health resources can be displayed ensuring all users have the same view of the current state of the pandemic – this enables collaboration across the globe enabling coordinated response.

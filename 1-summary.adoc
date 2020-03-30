@@ -1,6 +1,8 @@
 == Summary
 
-This Health Spatial Data Infrastructure white paper provides a discussion about the collection, exchange, integration, analysis, and visualization of health and non-health data to support health applications. Applications that address health issues at global and population level scale as well as at the local, individual patient scale are presented. This paper identifies opportunities to advance OGC Standards towards building a framework to support Health Spatial Data Infrastructures (SDIs).
+This Health Spatial Data Infrastructure (SDI) white paper provides a discussion about the collection, exchange, integration, analysis, and visualization of health and non-health data to support health applications. Applications that address health issues at global and population level scale as well as at the local, individual patient scale are presented. This paper identifies opportunities to advance OGC Standards towards building a framework to support Health SDIs.
+
+An SDI is defined as a framework of policies, institutional arrangements, technologies, data, and people that enables the sharing and effective usage of geographic information by standardizing formats and protocols for access and interoperability.
 
 Developing a Health SDI based on open standards will help health data users and other stakeholders in the following ways:
 
@@ -15,7 +17,7 @@ Developing a Health SDI based on open standards will help health data users and 
 
 More generally, Health SDIs must become a mainstream component of the world’s healthcare infrastructure not only because of the critical and central role that health - and good health - plays in human life, but also because it is the most expensive component of most countries annual budget. It is well known that the U.S. health system is unsustainable at 20% of its Gross Domestic Product (GDP), but it is also unsustainable in other countries at 11% of their GDP.
 
-Finding solutions to reduce the cost of healthcare - in developed nations and elsewhere - is important. It may be important to realize that these solutions may not come from within healthcare, because healthcare industry advances are always more expensive than any medical technology, treatments, or pharmaceutical drugs they replace. Cost control in healthcare may have to come from the digital realm - for the potential system-wide efficiencies such technology may be able to create - as well as the data analytic and visualization perspective not only - for its ability to integrate health data with non-health and novel data sets allowing for quick diagnosis and identification of revolutionary new population health measures that identify cost drivers as well as their solutions.
+Finding solutions to reduce the cost of healthcare - in developed nations and elsewhere - is important. It may be important to realize that these solutions may not come from within healthcare, because healthcare industry advances are always more expensive than any medical technology, treatments, or pharmaceutical drugs they replace. Cost control in healthcare may have to come from the digital realm, for its ability to integrate health data with non-health and novel data sets allowing for quick diagnosis and identification of revolutionary new population health measures that identify cost drivers as well as their solutions. 
 
 A Health SDI as a platform for analyzing geocoded health data with social and environmental data and potentially new data sets not yet created is a natural fit, as this document will demonstrate.
 

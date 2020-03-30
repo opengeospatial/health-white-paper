@@ -34,12 +34,12 @@ Popular SDIs with catalogs including wide sets of data include GeoPlatform.gov a
 
 === Future Work
 
-This document advocates for the development of Global Health Spatial Data Infrastructure, discussing specific applications where such a solution can be helpful. In the process, the current market requirements as well as several use cases are also identified. Additional challenges to be certain are likely to be encountered in the process of establishing a Health SDI that can serve the world. Future work towards this end can involve:
+This document advocates for the development of Global Health Spatial Data Infrastructure, discussing specific applications where such a solution can be helpful. In the process, the current market requirements as well as several use cases are also identified. Also discussed are additional challenges that are likely to be encountered in the process of establishing a Health SDI that can serve the world. Future work towards this end can involve:
 
 •	Reviewing and expanding on the initiatives included in <<Introduction>>
-•	Identify new use cases for a Health SDI for inclusion in <<Initiatives>>
-•	Update the data considerations in <<IntroductionAppAreas>>
+•	Identifying new use cases for a Health SDI for inclusion in <<Initiatives>>
+•	Updating of the data considerations in <<IntroductionAppAreas>>
 
 Use cases of a Health SDI are expected to grow. For instance, disruptions in the supply chain of medical resources has been identified as a key challenge in pandemic response. A Health SDI can be leveraged to track – as well as potentially anticipate such disruptions in advance so contingencies can be planned.
 
-In addition, a key next steps can be the identification of the open data standards that either need to be updated to accommodate and support a Health SDI or the creation of a documented profile to guide the implementation of a Health SDI. The OGC's concept development studies, pilots, and testbeds are effective mechanisms to accomplishing these tasks and identify additional potential road blocks towards the construction of Health SDI.
+In addition, a key next step can be the identification of the open data standards that either need to be updated to accommodate and support a Health SDI or the creation of a documented profile to guide the implementation of a Health SDI. The OGC's concept development studies, pilots, and testbeds are effective mechanisms to accomplishing these tasks and identify additional potential obstacles and solutions towards the construction of Health SDI.
