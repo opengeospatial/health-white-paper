@@ -17,10 +17,10 @@
 |===
 |{set:cellbgcolor:#FFFFFF}
 |[big]*Open Geospatial Consortium*
-|Submission Date: <yyyy-mm-dd>
-|Approval Date:   <yyyy-mm-dd>
-|Publication Date:   <yyyy-mm-dd>
-|External identifier of this OGC(R) document: http://www.opengis.net/doc/{doc-type}/{standard}/{m.n}
+|Submission Date: 2019-10-31
+|Approval Date:   2020-02-11
+|Publication Date:  2020-03-30
+|External identifier of this OGC(R) document: http://www.opengis.net/doc/WP/Health-SDI
 |Internal reference number of this OGC(R) document:    19-076
 |Category: OGC(R) White Paper
 |Editors:   Gupta, AJAY, Bermudez, LUIS, Oldfield, EDDIE, Serich, SCOTT
@@ -49,7 +49,7 @@ This document is not an OGC Standard. This document is an OGC White Paper and is
 |===
 |Document type:   	OGC® White Paper
 |Document subtype:
-|Document stage:   	Draft
+|Document stage:   	Approved for public release
 |Document language: 	English
 |===
 
