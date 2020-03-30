@@ -1,5 +1,6 @@
 :Title: Health Spatial Data Infrastructure: Application Areas, Recommendations, and Architecture
 :titletext: {Title}
+:year: 2020
 :doctype: book
 :encoding: utf-8
 :lang: en
