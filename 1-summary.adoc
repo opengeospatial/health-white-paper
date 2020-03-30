@@ -9,19 +9,19 @@ Developing a Health SDI based on open standards will help health data users and 
 * *Government and Institutes* - to understand market priorities surrounding the need and use of data in healthcare, and to design health-oriented SDIs;
 * *Standards Organizations* - to understand opportunities to develop or improve standards to support health applications and the healthcare industry overall;
 * *Researchers* - to have a foundation of elements for advancing research on SDIs and health-related applications using OGC Standards;
-* *Health and Medical Researchers* - to understand how geospatial analytics on health and social data sets can causes and consequences of poor health outcomes that may be in need to further research towards identifying viable treatment options, as well as advancing the research towards solutions to population health challenges;
+* *Health and Medical Researchers* - to understand geospatial analytics on health and social data sets, as well as understanding the causes and consequences of poor health outcomes that may be in need of further research towards identifying viable treatment options, in addition to advancing the research towards solutions to population health challenges;
 * *Health Systems* - to understand how such a framework could contribute to clinician point-of-care decision support and be leveraged to improve patient care and overall population health;
 * *Insurers* - to understand how geospatial analytics on health and social data sets can indicate long-term health risks of populations, as well as potential means of intervening on those risks.
 
-More generally, Health SDIs must become a mainstream component of the world’s healthcare infrastructure not only because of the critical and central role that health - and good health - plays in human life, but also because it is the most expensive component of most countries annual budget. It is well known that the U.S. health systems is unsustainable and approaching 20% of its GDP, but the growth rate in healthcare spending is also unsustainable in nations where it is 11% of their GDP. 
+More generally, Health SDIs must become a mainstream component of the world’s healthcare infrastructure not only because of the critical and central role that health - and good health - plays in human life, but also because it is the most expensive component of most countries annual budget. It is well known that the U.S. health system is unsustainable at 20% of its Gross Domestic Product (GDP), but it is also unsustainable in other countries at 11% of their GDP.
 
-Finding solutions to reduce the cost of healthcare - in developed nations and elsewhere - is important. And it may be important to realize that these solutions may not come from within healthcare. Because healthcare industry advances are always more expensive than any medical technology, treatments, or pharmaceutical drugs they replace. Cost control in healthcare may have to come from the digital realm - for the potential system-wide efficiencies such technology may be able to create - as well as the data analytic and visualization perspective not only - for its ability to integrate health data with non-health and novel data sets allowing for quick diagnosis and identification of revolutionary new population health measures that identify cost drivers as well as their solutions.  
+Finding solutions to reduce the cost of healthcare - in developed nations and elsewhere - is important. It may be important to realize that these solutions may not come from within healthcare, because healthcare industry advances are always more expensive than any medical technology, treatments, or pharmaceutical drugs they replace. Cost control in healthcare may have to come from the digital realm - for the potential system-wide efficiencies such technology may be able to create - as well as the data analytic and visualization perspective not only - for its ability to integrate health data with non-health and novel data sets allowing for quick diagnosis and identification of revolutionary new population health measures that identify cost drivers as well as their solutions.
 
-A Health SDI as a platform for analyzing geocoded health data with social and environmental data and potentially new data sets not yet created is a natural fit, as this document will demonstrate. 
+A Health SDI as a platform for analyzing geocoded health data with social and environmental data and potentially new data sets not yet created is a natural fit, as this document will demonstrate.
 
-== Key Applications Areas
+=== Key Applications Areas
 
-The paper builds on contributions from OGC Health Domain Working Group members and is informed by OGC Health DWG sessions from 2012-2019, including Summits in 2016 and 2017. The following key application areas are addressed providing a broad scope of market requirements and functional areas:
+The paper builds on contributions from http://external.opengeospatial.org/twiki_public/HealthDWG/WebHome[OGC Health Domain Working Group] (DWG) members and is informed by OGC Health DWG sessions from 2012-2019, including Summits in 2016 and 2017. The OGC Health DWG provides a forum for discussion of key geospatial interoperability requirements, issues and potential solutions relating to the health domain. The following key application areas are addressed providing a broad scope of market requirements and functional areas:
 
 * Climate-Health
 * Healthy Aging
@@ -31,19 +31,7 @@ The paper builds on contributions from OGC Health Domain Working Group members a
 * Maternal Mortality
 * Pandemic Response
 
-===	Document contributor contact points
 
-All questions regarding this document should be directed to the editor or the contributors:
-
-.Contacts
-[width="80%",options="header"]
-|====================
-|Name |Organization
-|Luis Bermudez | OGC
-|Eddie Oldfield | Spatial Quest
-|Scott Serich | OGC
-|Ajay K Gupta | HSR.health
-|====================
 
 
 // *****************************************************************************

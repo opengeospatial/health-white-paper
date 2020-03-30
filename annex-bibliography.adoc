@@ -1,224 +1,111 @@
 [appendix]
-== Appendix A Lancet Countdown Indicators
-
-https://sciencepolicy.colorado.edu/admin/publication_files/2017.08.pdf[Indicators Established in 2017:]
-
-Section 1: Climate change impacts, exposures, and vulnerability
-1.1. Health effects of temperature change
-1.2. Health effects of heatwaves
-1.3. Change in labour capacity
-1.4. Lethality of weather-related disasters
-1.5. Global health trends in climate-sensitive diseases
-1.6. Climate-sensitive infectious diseases
-1.7. Food security and undernutrition
-1.7.1. Vulnerability to undernutrition
-1.7.2. Marine primary productivity
-1.8. Migration and population displacement
-
-Section 2: Adaptation planning and resilience for health
-2.1. National adaptation plans for health
-2.2. City-level climate change risk assessments
-2.3. Detection and early warning of, preparedness for, and response to health emergencies
-2.4. Climate information services for health
-2.5. National assessment of vulnerability, impacts, and adaptation for health
-2.6. Climate-resilient health infrastructure
-
-Section 3: Mitigation actions and health co-benefits
-3.1. Carbon intensity of the energy system
-3.2. Coal phase-out
-3.3. Zero-carbon emission electricity
-3.4. Access to clean energy
-3.5. Exposure to ambient air pollution
-3.5.1. Exposure to air pollution in cities
-3.5.2. Sectoral contributions to air pollution
-3.5.3. Premature mortality from ambient air pollution by sector
-3.6. Clean fuel use for transport
-3.7. Sustainable travel infrastructure and uptake
-3.8. Ruminant meat for human consumption
-3.9. Health-care sector emissions
-
-Section 4: Economics and finance
-4.1. Investments in zero-carbon energy and energy efficiency
-4.2. Investment in coal capacity
-4.3. Funds divested from fossil fuels
-4.4. Economic losses due to climate-related extreme events
-4.5. Employment in low-carbon and high-carbon industries
-4.6. Fossil fuel subsidies
-4.7. Coverage and strength of carbon pricing
-4.8. Use of carbon pricing revenues
-4.9. Spending on adaptation for health and health-related activities
-4.10. Health adaptation funding from global climate financing mechanisms
-
-Section 5: Public and political engagement
-5.1. Media coverage of health and climate change
-5.1.1. Global newspaper reporting on health and climate change
-5.1.2. In-depth analysis of newspaper coverage on health and climate change
-5.2. Health and climate change in scientific journals
-5.3. Health and climate change in the United Nations General Assembly
-
-
-https://sciencepolicy.colorado.edu/admin/publication_files/2018.14.pdf[Indicators Established in 2018:]
-
-Climate change impacts, exposures, and vulnerability
-• Indicator 1.1: vulnerability to the heat-related risks of climate change
-• Indicator 1.2: health effects of temperature change
-• Indicator 1.3: health effects of heatwaves
-• Indicator 1.4: change in labour capacity
-• Indicator 1.5: health effects of extremes of precipitation (flood and drought)
-• Indicator 1.6: lethality of weather-related disasters
-• Indicator 1.7: global health trends in climate-sensitive diseases
-• Indicator 1.8: climate-sensitive infectious diseases
-• Indicator 1.9: food security and undernutrition
-• Indicator 1.9.1: terrestrial food security and undernutrition
-• Indicator 1.9.2: marine food security and undernutrition
-• Indicator 1.10: migration and population displacement
-
-Adaptation, planning, and resilience for health
-• Indicator 2.1: national adaptation plans for health
-• Indicator 2.2: city-level climate change risk assessments
-• Indicator 2.3: detection, preparedness, and response to health emergencies
-• Indicator 2.4: climate change adaptation to vulnerabilities from mosquito-borne diseases
-• Indicator 2.5: climate information services for health
-• Indicator 2.6: national assessments of climate change impacts, vulnerability, and adaptation for health
-• Indicator 2.7: spending on adaptation for health and health-related activities
-• Indicator 2.8: health adaptation funding from global climate financing mechanisms
-
-Mitigation actions and health co-benefits
-• Indicator 3.1: carbon intensity of the energy system
-• Indicator 3.2: coal phase-out
-• Indicator 3.3: zero-carbon emission electricity
-• Indicator 3.4: access to clean energy
-• Indicator 3.5: exposure to ambient air pollution
-• Indicator 3.5.1: exposure to air pollution in cities
-• Indicator 3.5.2: premature mortality from ambient air pollution by sector
-• Indicator 3.6: clean fuel use for transport
-• Indicator 3.7: sustainable travel infrastructure and uptake
-• Indicator 3.8: ruminant meat for human consumption
-• Indicator 3.9: health-care sector emissions
-
-Finance and economics
-• Indicator 4.1: economic losses due to climate-related extreme events
-• Indicator 4.2: investments in zero-carbon energy and energy efficiency
-• Indicator 4.3: investment in new coal capacity
-• Indicator 4.4: employment in renewable and fossil-fuel energy industries
-• Indicator 4.5: funds divested from fossil fuels
-• Indicator 4.6: fossil fuel subsidies
-• Indicator 4.7: coverage and strength of carbon pricing
-• Indicator 4.8: use of carbon pricing revenues
-
-Public and political engagement
-• Indicator 5.1: media coverage of health and climate change
-• Indicator 5.2: coverage of health and climate change in scientific journals
-• Indicator 5.3: engagement in health and climate change in the UN General Assembly
-• Indicator 5.4: engagement in health and climate change in the corporate sector
-
-
+:appendix-caption: Annex
 [[Bibliography]]
 = Bibliography
 
-Watts, N., Amann, M., & Ayeb-Karlsson, S. (2017, October 30). The Lancet Countdown on 
+Watts, N., Amann, M., & Ayeb-Karlsson, S. (2017, October 30). The Lancet Countdown on
 health and climate change: from 25 years of inaction to a global transformation for public health. Retrieved October 8, 2019, from https://www.sciencedirect.com/science/article/pii/S0140673617324649?via=ihub.
 
-Watts, N., Amann, M., & Arnell, N. (2018, November 28). The 2018 report of the Lancet 
+Watts, N., Amann, M., & Arnell, N. (2018, November 28). The 2018 report of the Lancet
 Countdown on health and climate change: shaping the health of nations for centuries to come. Retrieved October 8, 2019, from https://www.sciencedirect.com/science/article/pii/S0140673618325947?via=ihub.
 
-About Us: The Lancet Countdown On Health And Climate Change. (2019, February 14). 
+About Us: The Lancet Countdown On Health And Climate Change. (2019, February 14).
 Retrieved from http://www.lancetcountdown.org/about-us/.
 
-Fakhruddin, B., Chu, E., & Li, G. (2019, September 17). Next Generation Disaster Data 
+Fakhruddin, B., Chu, E., & Li, G. (2019, September 17). Next Generation Disaster Data
 Infrastructure. Retrieved October 8, 2019, from http://www.irdrinternational.org/2019/09/17/next-generation-disaster-data-infrastructure/.
 
 European Commission. (n.d.). Retrieved from https://inspire.ec.europa.eu/INSPIRE-in-your-Country
 
-Canadian Geospatial Data Infrastructure (Cgdi) User Needs Assessments. (2018, September). 
+Canadian Geospatial Data Infrastructure (CGDI) User Needs Assessments. (2018, September).
 Retrieved from https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=314606.
 
-2015 Assessment of the Canadian Geospatial Data Infrastructure. (2015, June 25). Retrieved 
+2015 Assessment of the Canadian Geospatial Data Infrastructure. (2015, June 25). Retrieved
 October 8, 2019, from https://geoscan.nrcan.gc.ca/starweb/geoscan/servlet.starweb?path=geoscan/downloade.web&search1=R=297880.
 
-GEO Task US-09-01a: Health Societal Benefit Area. (n.d.). Retrieved October 9, 2019, from 
+GEO Task US-09-01a: Health Societal Benefit Area. (n.d.). Retrieved October 9, 2019, from
 https://sbageotask.larc.nasa.gov/humanhealth.html.
 
-Earth Observations for Health (EO4HEALTH) Initiative 2020-2022 Implementation Plan. (2019, 
+Earth Observations for Health (EO4HEALTH) Initiative 2020-2022 Implementation Plan. (2019,
 March 15). Retrieved October 9, 2019, from https://www.earthobservations.org/documents/gwp20_22/eo_for_health_ip.pdf.
 
-Oldfield, E. (2017, July 17). Welcome to the HealthDWG web. Retrieved October 9, 2019, from 
+Oldfield, E. (2017, July 17). Welcome to the HealthDWG web. Retrieved October 9, 2019, from
 http://external.opengeospatial.org/twiki_public/HealthDWG/WebHome.
 
-Health Summit Report. (2016, June 21). Retrieved from 
+Health Summit Report. (2016, June 21). Retrieved from
 http://external.opengeospatial.org/twiki_public/pub/HealthDWG/WebHome/SummitFinal.pdf.
 
-Bache, F., Bredel , H., & Bröring, A. (2013). EO2HEAVEN mitigating environmental health 
+Bache, F., Bredel , H., & Bröring, A. (2013). EO2HEAVEN mitigating environmental health
 risks. Retrieved from https://www.iosb.fraunhofer.de/servlet/is/26790/D6.10_EO2HEAVEN_Book.pdf.
 
-European Commission. (2019, September 10). Retrieved October 9, 2019, from 
+European Commission. (2019, September 10). Retrieved October 9, 2019, from
 https://inspire.ec.europa.eu/Themes/119/2892.
 
-Frerichs, R. R. (2003, November). John Snow and the Broad Street Pump. Retrieved October 9, 
+Frerichs, R. R. (2003, November). John Snow and the Broad Street Pump. Retrieved October 9,
 2019, from https://www.ph.ucla.edu/epi/snow/snowcricketarticle.html.
 
-Petiteville, I. (2017). Data Access for Risk Management (GEO-DARMA). Retrieved October 9, 
+Petiteville, I. (2017). Data Access for Risk Management (GEO-DARMA). Retrieved October 9,
 2019, from https://www.earthobservations.org/activity.php?id=110.
 
-Group on Earth Observations – Data Access for Risk Management. (n.d.). Retrieved October 9, 
+Group on Earth Observations – Data Access for Risk Management. (n.d.). Retrieved October 9,
 2019, from http://ceos.org/ourwork/workinggroups/disasters/geo-darma/.
 
 OGC Health Domain Working Group Wiki Page, http://external.opengeospatial.org/twiki_public/HealthDWG/WebHome
 
-Li, G., & Song, C. (n.d.). Linked Open Data for Global Disaster Risk Research - CODATA. 
+Li, G., & Song, C. (n.d.). Linked Open Data for Global Disaster Risk Research - CODATA.
 Retrieved from http://www.codata.org/task-groups/linked-open-data-for-global-disaster-risk-research
 
 HHS emPOWER Map 3.0. (2019, September 25). Retrieved from https://empowermap.hhs.gov/.
 
-The SDI Cookbook. (2007, September 30). Retrieved from 
+The SDI Cookbook. (2007, September 30). Retrieved from
 http://gsdiassociation.org/images/publications/cookbooks/SDI_Cookbook_from_Wiki_2012_update.pdf.
 
 The Paris Agreement. (n.d.). Retrieved October 9, 2019, from https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement.
 
-Medical Subject Headings - Home Page. (2019, October 4). Retrieved October 10, 2019, from 
+Medical Subject Headings - Home Page. (2019, October 4). Retrieved October 10, 2019, from
 https://www.nlm.nih.gov/mesh/meshhome.html.
 
-SNOMED CT. (2019, September 18). Retrieved October 10, 2019, from 
+SNOMED CT. (2019, September 18). Retrieved October 10, 2019, from
 https://www.nlm.nih.gov/healthit/snomedct/index.html.
 
-Unified Medical Language System (UMLS). (2019, May 23). Retrieved October 10, 2019, from 
+Unified Medical Language System (UMLS). (2019, May 23). Retrieved October 10, 2019, from
 https://www.nlm.nih.gov/research/umls/index.html.
 
-Sawyer, B., & Claxton   Kaiser, G. (2019, January 16). How do health expenditures vary across 
+Sawyer, B., & Claxton   Kaiser, G. (2019, January 16). How do health expenditures vary across
 the population? Retrieved October 10, 2019, from https://www.healthsystemtracker.org/chart-collection/health-expenditures-vary-across-population/.
 
-SDG 3: Ensure healthy lives and promote wellbeing for all at all ages. (2017, February 3). 
+SDG 3: Ensure healthy lives and promote wellbeing for all at all ages. (2017, February 3).
 Retrieved from https://www.who.int/sdg/targets/en/.
 
-Transforming our world: the 2030 Agenda for Sustainable Development .:. Sustainable 
+Transforming our world: the 2030 Agenda for Sustainable Development .:. Sustainable
 Development Knowledge Platform. (n.d.). Retrieved from https://sustainabledevelopment.un.org/post2015/transformingourworld.
 
-A Conceptual Model for Developing Interoperability Specifications in Spatial Data 
+A Conceptual Model for Developing Interoperability Specifications in Spatial Data
 Infrastructures. (2012, April 24). Retrieved from https://inspire.ec.europa.eu/documents/conceptual-model-developing-interoperability-specifications-spatial-data-infrastructures.
 
-Types of Healthy Settings. (2018, June 26). Retrieved from 
+Types of Healthy Settings. (2018, June 26). Retrieved from
 https://www.who.int/healthy_settings/types/cities/en/.
 
-Kamel Boulos, M. N., & Al-Shorbaji2, N. M. (2014, March 27). On the Internet of Things, smart 
+Kamel Boulos, M. N., & Al-Shorbaji2, N. M. (2014, March 27). On the Internet of Things, smart
 cities and the WHO Healthy Cities. Retrieved from https://ij-healthgeographics.biomedcentral.com/articles/10.1186/1476-072X-13-10.
 
-Smart city technology: It's all about the Internet of Things. (2018, August 14). Retrieved from 
+Smart city technology: It's all about the Internet of Things. (2018, August 14). Retrieved from
 https://www.information-age.com/smart-city-technology-123473905/.
 
-Buttorff, C. (2017, July 12). Chronic Conditions in America: Price and Prevalence. Retrieved 
+Buttorff, C. (2017, July 12). Chronic Conditions in America: Price and Prevalence. Retrieved
 from https://www.rand.org/blog/rand-review/2017/07/chronic-conditions-in-america-price-and-prevalence.html.
 
-Standards. (2017, August 1). Retrieved from https://www.who.int/gho/indicator_registry/en/.	
+Standards. (2017, August 1). Retrieved from https://www.who.int/gho/indicator_registry/en/.
 
-Resolution adopted by the General Assembly on 2 February 2017. (2017, February 2). Retrieved 
+Resolution adopted by the General Assembly on 2 February 2017. (2017, February 2). Retrieved
 from https://undocs.org/en/A/RES/71/276.
 
-Sendai Framework for Disaster Risk Reduction 2015-2030. (2015). Retrieved from 
+Sendai Framework for Disaster Risk Reduction 2015-2030. (2015). Retrieved from
 https://www.unisdr.org/we/inform/publications/43291.
 
 Global Reference List of 100 Core Health Indicators (plus health-related SDGs), 2018. (2018, February 5). Retrieved from https://www.who.int/healthinfo/indicators/2018/en/.
 
-Global Burden of Disease (GBD). (2018, December 17). Retrieved from 
+Global Burden of Disease (GBD). (2018, December 17). Retrieved from
 http://www.healthdata.org/gbd.
 
 GBD Compare. (2017). Retrieved from https://vizhub.healthdata.org/gbd-compare/.
@@ -229,36 +116,36 @@ INFORM GRI. (n.d.). Retrieved from https://drmkc.jrc.ec.europa.eu/inform-index.
 
 HIPAA for Professionals. (2017, June 16). Retrieved from https://www.hhs.gov/hipaa/for-professionals/index.html.
 
-Methods for De-identification of PHI. (2015, November 6). Retrieved from 
+Methods for De-identification of PHI. (2015, November 6). Retrieved from
 https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html.
 
-Confidentiality of Substance Use Disorder Patient Records. (2017, January 18). Retrieved from 
+Confidentiality of Substance Use Disorder Patient Records. (2017, January 18). Retrieved from
 https://www.federalregister.gov/documents/2017/01/18/2017-00719/confidentiality-of-substance-use-disorder-patient-records.
 
-General Data Protection Regulation. (2019, October 10). Retrieved from 
+General Data Protection Regulation. (2019, October 10). Retrieved from
 https://en.wikipedia.org/wiki/General_Data_Protection_Regulation.
 
-European Union, & European Parliament. (2016, April 27). Regulation (EU) 2016/679 of the 
+European Union, & European Parliament. (2016, April 27). Regulation (EU) 2016/679 of the
 European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC . Retrieved from https://publications.europa.eu/en/publication-detail/-/publication/3e485e15-11bd-11e6-ba9a-01aa75ed71a1/language-en.
 
 Sustainable Innovation Forum (SIF15) . (2015). Retrieved from http://www.cop21paris.org/.
 
-Advancing Strategic Science: A Spatial Data Infrastructure Roadmap for the U.S. Geological 
+Advancing Strategic Science: A Spatial Data Infrastructure Roadmap for the U.S. Geological
 Survey. (2012). Retrieved from https://www.nap.edu/read/13506/chapter/4#12
 
-Smart city technology: It's all about the Internet of Things. (2018, August 14). Retrieved October 
+Smart city technology: It's all about the Internet of Things. (2018, August 14). Retrieved October
 10, 2019, from https://www.information-age.com/smart-city-technology-123473905/.
 
-Goal 3 .:. Sustainable Development Knowledge Platform. (n.d.). Retrieved from 
+Goal 3 .:. Sustainable Development Knowledge Platform. (n.d.). Retrieved from
 https://sustainabledevelopment.un.org/sdg3.
 
-Hogan, M. C., Foreman, K. J., & Naghavi, M. (2012, April 10). Maternal mortality for 181 
+Hogan, M. C., Foreman, K. J., & Naghavi, M. (2012, April 10). Maternal mortality for 181
 countries, 1980–2008: a systematic analysis of progress towards Millennium Development Goal 5. Retrieved October 10, 2019, from https://www.who.int/pmnch/topics/maternal/20100402_ihmearticle.pdf.
 
-OGC Standards. (n.d.). Retrieved October 10, 2019, from 
+OGC Standards. (n.d.). Retrieved October 10, 2019, from
 https://www.opengeospatial.org/docs/is.
 
-Sawyer, Bradley and Claxton, Gary, “How do health expenditures vary across the population”, Kaiser Family Foundation, January 16, 2019, Retrieved September 2019 https://www.healthsystemtracker.org/chart-collection/health-expenditures-vary-across-population/. 
+Sawyer, Bradley and Claxton, Gary, “How do health expenditures vary across the population”, Kaiser Family Foundation, January 16, 2019, Retrieved September 2019 https://www.healthsystemtracker.org/chart-collection/health-expenditures-vary-across-population/.
 
 Canadian Geospatial Data Infrastructure Gaps And Opportunities In Public Health. (2006, March 31). Retrieved from http://ow.ly/d/goa.
 
@@ -303,10 +190,3 @@ Ow.ly—CGDIandPublicHealth.doc uploaded by @MappingResearch (NB Lung Associatio
 Ow.ly—ISpaper.doc uploaded by @MappingResearch (NB Lung Association). (n.d.). Retrieved March 26, 2020, from http://ow.ly/d/8ce
 
 TR272.pdf. (n.d.). Retrieved March 26, 2020, from http://www2.unb.ca/gge/Pubs/TR272.pdf
-
-
-
-
-
-
-

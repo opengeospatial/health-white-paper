@@ -1,0 +1,116 @@
+[appendix]
+:appendix-caption: Annex
+== Appendix A Lancet Countdown Indicators
+
+https://sciencepolicy.colorado.edu/admin/publication_files/2017.08.pdf[Indicators Established in 2017:]
+```
+Section 1: Climate change impacts, exposures, and vulnerability
+1.1. Health effects of temperature change
+1.2. Health effects of heatwaves
+1.3. Change in labour capacity
+1.4. Lethality of weather-related disasters
+1.5. Global health trends in climate-sensitive diseases
+1.6. Climate-sensitive infectious diseases
+1.7. Food security and undernutrition
+1.7.1. Vulnerability to undernutrition
+1.7.2. Marine primary productivity
+1.8. Migration and population displacement
+
+Section 2: Adaptation planning and resilience for health
+2.1. National adaptation plans for health
+2.2. City-level climate change risk assessments
+2.3. Detection and early warning of, preparedness for, and response to health emergencies
+2.4. Climate information services for health
+2.5. National assessment of vulnerability, impacts, and adaptation for health
+2.6. Climate-resilient health infrastructure
+
+Section 3: Mitigation actions and health co-benefits
+3.1. Carbon intensity of the energy system
+3.2. Coal phase-out
+3.3. Zero-carbon emission electricity
+3.4. Access to clean energy
+3.5. Exposure to ambient air pollution
+3.5.1. Exposure to air pollution in cities
+3.5.2. Sectoral contributions to air pollution
+3.5.3. Premature mortality from ambient air pollution by sector
+3.6. Clean fuel use for transport
+3.7. Sustainable travel infrastructure and uptake
+3.8. Ruminant meat for human consumption
+3.9. Health-care sector emissions
+
+Section 4: Economics and finance
+4.1. Investments in zero-carbon energy and energy efficiency
+4.2. Investment in coal capacity
+4.3. Funds divested from fossil fuels
+4.4. Economic losses due to climate-related extreme events
+4.5. Employment in low-carbon and high-carbon industries
+4.6. Fossil fuel subsidies
+4.7. Coverage and strength of carbon pricing
+4.8. Use of carbon pricing revenues
+4.9. Spending on adaptation for health and health-related activities
+4.10. Health adaptation funding from global climate financing mechanisms
+
+Section 5: Public and political engagement
+5.1. Media coverage of health and climate change
+5.1.1. Global newspaper reporting on health and climate change
+5.1.2. In-depth analysis of newspaper coverage on health and climate change
+5.2. Health and climate change in scientific journals
+5.3. Health and climate change in the United Nations General Assembly
+```
+
+https://sciencepolicy.colorado.edu/admin/publication_files/2018.14.pdf[Indicators Established in 2018:]
+
+```
+Climate change impacts, exposures, and vulnerability
+• Indicator 1.1: vulnerability to the heat-related risks of climate change
+• Indicator 1.2: health effects of temperature change
+• Indicator 1.3: health effects of heatwaves
+• Indicator 1.4: change in labour capacity
+• Indicator 1.5: health effects of extremes of precipitation (flood and drought)
+• Indicator 1.6: lethality of weather-related disasters
+• Indicator 1.7: global health trends in climate-sensitive diseases
+• Indicator 1.8: climate-sensitive infectious diseases
+• Indicator 1.9: food security and undernutrition
+• Indicator 1.9.1: terrestrial food security and undernutrition
+• Indicator 1.9.2: marine food security and undernutrition
+• Indicator 1.10: migration and population displacement
+
+Adaptation, planning, and resilience for health
+• Indicator 2.1: national adaptation plans for health
+• Indicator 2.2: city-level climate change risk assessments
+• Indicator 2.3: detection, preparedness, and response to health emergencies
+• Indicator 2.4: climate change adaptation to vulnerabilities from mosquito-borne diseases
+• Indicator 2.5: climate information services for health
+• Indicator 2.6: national assessments of climate change impacts, vulnerability, and adaptation for health
+• Indicator 2.7: spending on adaptation for health and health-related activities
+• Indicator 2.8: health adaptation funding from global climate financing mechanisms
+
+Mitigation actions and health co-benefits
+• Indicator 3.1: carbon intensity of the energy system
+• Indicator 3.2: coal phase-out
+• Indicator 3.3: zero-carbon emission electricity
+• Indicator 3.4: access to clean energy
+• Indicator 3.5: exposure to ambient air pollution
+• Indicator 3.5.1: exposure to air pollution in cities
+• Indicator 3.5.2: premature mortality from ambient air pollution by sector
+• Indicator 3.6: clean fuel use for transport
+• Indicator 3.7: sustainable travel infrastructure and uptake
+• Indicator 3.8: ruminant meat for human consumption
+• Indicator 3.9: health-care sector emissions
+
+Finance and economics
+• Indicator 4.1: economic losses due to climate-related extreme events
+• Indicator 4.2: investments in zero-carbon energy and energy efficiency
+• Indicator 4.3: investment in new coal capacity
+• Indicator 4.4: employment in renewable and fossil-fuel energy industries
+• Indicator 4.5: funds divested from fossil fuels
+• Indicator 4.6: fossil fuel subsidies
+• Indicator 4.7: coverage and strength of carbon pricing
+• Indicator 4.8: use of carbon pricing revenues
+
+Public and political engagement
+• Indicator 5.1: media coverage of health and climate change
+• Indicator 5.2: coverage of health and climate change in scientific journals
+• Indicator 5.3: engagement in health and climate change in the UN General Assembly
+• Indicator 5.4: engagement in health and climate change in the corporate sector
+```

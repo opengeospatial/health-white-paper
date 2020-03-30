@@ -1,7 +1,7 @@
 [appendix]
-= Revision History
+:appendix-caption: Annex
+== Revision History
 
-.Revision History
 [width="90%",options="header"]
 |====================
 |Date |Editor |Release | Primary clauses modified |Descriptions
@@ -19,5 +19,7 @@
 |June 9, 2017 |Scott Serich | .3.9 |all | Resolve GitHub Issue #9
 |June 9, 2017 |Scott Serich | .3.10 |all | Resolve GitHub Issue #10
 |June 9, 2017 |Scott Serich | .3.11 |all | Resolve GitHub Issue #11
-
+|October 31, 2019 |Ajay Gupta | .4 |all | Final edits for TC approval
+|March 27, 2020 |Ajay Gupta | .4.1 |all | Final edits
+|March 30, 2020 |Gobe Hobona | .4.2 |all | Final edits prior to publication
 |====================

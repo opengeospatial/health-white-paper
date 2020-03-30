@@ -2,20 +2,20 @@
 
 === The Role of an SDI
 
-A Health SDI can be leveraged to address challenge in healthcare today, such as what issuing surrounding maternal mortality present. An ideal approach to rectify the problem can be to develop a GML-based spatial data infrastructure for health data that will standardize the semantics and definitions of data being captured and reported.  This will facilitate both integration of data from different sources and comparison of results reported from different health systems and nations.  
+A Health SDI can be leveraged to address challenges in healthcare today, such as the issuing of reports surrounding the maternal mortality rate. An ideal approach to rectify the problem can be to develop a GML-based spatial data infrastructure for health data that will standardize the semantics and definitions of data being captured and reported.  This will facilitate both integration of data from different sources and comparison of results reported from different health systems and nations.
 
-A spatial data infrastructure will also allow the health data to be easily mapped – and layered against social determinants of health, including but not limited to population density, education, income, transportation, environmental factors, climate change, and a variety of other factors. In addition, an SDI will enable the inclusion of new data sources that currently aren’t considered when analyzing health outcomes, such as environmental sensors, smart city sensors, and satellite data. This will allow more data and more diverse data to be brought to bear on health data analytics that was previously possible – leading to more comprehensive research into and discovery of both the root causes and solutions to adverse outcomes that plague our global community.  
+A spatial data infrastructure will also allow the health data to be easily mapped – and layered against social determinants of health, including but not limited to population density, education, income, transportation, environmental factors, climate change, and a variety of other factors. In addition, an SDI will enable the inclusion of new data sources that currently aren’t considered when analyzing health outcomes, such as environmental sensors, smart city sensors, and satellite data. This will allow more data and more diverse data to be brought to bear on health data analytics that was previously possible – leading to more comprehensive research into and discovery of both the root causes and solutions to adverse outcomes that plague our global community.
 
 
 === Conceptual model recommendations
 
-The INSPIRE report https://inspire.ec.europa.eu/documents/conceptual-model-developing-interoperability-specifications-spatial-data-infrastructures[A Conceptual Model for Developing Interoperability Specifications in Spatial Data Infrastructures], especially on pages 40, 46, and 52 of the report provides important mode recommendations for services data and data harmonization:
+The INSPIRE report https://inspire.ec.europa.eu/documents/conceptual-model-developing-interoperability-specifications-spatial-data-infrastructures[A Conceptual Model for Developing Interoperability Specifications in Spatial Data Infrastructures], especially on pages 40, 46, and 52 of the report provides important mode recommendations for services, data and data harmonization:
 
 * *Download Service Strategies* - To make data available through a download service, data is typically transformed offline to create a static view that is compliant with the interoperability target specification and respecting privacy laws. Alternatively, data can be transformed inside the download service ‘on-the-fly’, according to previously defined mapping rules. A third option is to use a separate transformation service that executes predefined or user-defined mapping. It should be the responsibility of each data provider to choose the method and enable the necessary data transformation according to this choice.
 
-* *Harmonized Schema and Use Cases* - Pursuing the principle that the SDI should bring together existing data, requirements from use case scenarios should be compared with existing ‘as-is’ data availability. This analysis can reveal whether the requested data can be supplied by the data providers. If so, it also shows the complexity of the related transformation work. If there is no one-to-one relationship between the proposed harmonized schema and the theme-related datasets, data integration might be still required at the level of the data sources or by the users. An example of a harmonized model is shown in Figure 1 of Chapter 3 of this White Paper.
+* *Harmonized Schema and Use Cases* - Pursuing the principle that the SDI should bring together existing data, requirements from use case scenarios should be compared with existing ‘as-is’ data availability. This analysis can reveal whether the requested data can be supplied by the data providers. If so, it also shows the complexity of the related transformation work. If there is no one-to-one relationship between the proposed harmonized schema and the theme-related datasets, data integration might be still required at the level of the data sources or by the users. An example of a harmonized model is shown in <<img_inspire_health>> of this White Paper.
 
-* *Controlled Vocabularies* - Health data systems should put efforts on using common controlled vocabularies. Control vocabularies might be required for treatment names and codes, environmental conditions, etc. Exiting controlled vocabularies are:
+* *Controlled Vocabularies* - Health data systems should put efforts on using common controlled vocabularies. Control vocabularies might be required for treatment names and codes, environmental conditions, etc. Existing controlled vocabularies are:
 
 **  https://www.nlm.nih.gov/research/umls[UMLS]
 **  http://www.snomed.org/snomed-ct[SNOMED-CT]
@@ -39,21 +39,69 @@ Building a framework requires to partition the data needs in functional requirem
 === Data recommendations
 
 * *Data Security* - Data stored whether locally or in a cloud environment needs to be highly secure (critical applications) and comply with legal constraints.
-* *Data Anonymization* -  Aggregated data needs to be anonymized at an appropriate level, considering national regulations on aggregation of health data at given scales. ISO provides https://www.iso.org/obp/ui/#iso:std:iso:25237:ed-1:v1:en{ISO 25237:2017(en)Health informatics — Pseudonymization} as a potential method for privacy protection of personal health information of data within national borders as well as for transnational communication. 
+* *Data Anonymization* -  Aggregated data needs to be anonymized at an appropriate level, considering national regulations on aggregation of health data at given scales. The International Organization for Standardization (ISO) provides https://www.iso.org/obp/ui/#iso:std:iso:25237:ed-1:v1:en[ISO 25237:2017(en)Health informatics — Pseudonymization] as a potential method for privacy protection of personal health information of data within national borders as well as for transnational communication cite:[ISO25237].
 
-** *De-Identification* - In the context of U.S. Federal health care regulation, the https://www.hhs.gov/hipaa/for-professionals/index.html[Health Insurance Portability and Accountability Act (HIPAA)] provides https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html[guidance] on methods for de-identification of protected health information (PHI). https://www.federalregister.gov/documents/2017/01/18/2017-00719/confidentiality-of-substance-use-disorder-patient-records[Protection] is also afforded to patients receiving treatment for substance abuse and mental health disorders. The https://publications.europa.eu/en/publication-detail/-/publication/3e485e15-11bd-11e6-ba9a-01aa75ed71a1/language-en[General Data Protection Regulation (EU) 2016/679 (GDPR)] is a regulation in EU law on data protection and privacy for all individual citizens of the European Union (EU) and the European Economic Area (EEA). It also addresses the transfer of personal data outside the EU and EEA areas. 
+** *De-Identification* - In the context of U.S. Federal health care regulation, the https://www.hhs.gov/hipaa/for-professionals/index.html[Health Insurance Portability and Accountability Act (HIPAA)] provides https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html[guidance] on methods for de-identification of protected health information (PHI). https://www.federalregister.gov/documents/2017/01/18/2017-00719/confidentiality-of-substance-use-disorder-patient-records[Protection] is also afforded to patients receiving treatment for substance abuse and mental health disorders. The https://publications.europa.eu/en/publication-detail/-/publication/3e485e15-11bd-11e6-ba9a-01aa75ed71a1/language-en[General Data Protection Regulation (EU) 2016/679 (GDPR)] is a regulation in EU law on data protection and privacy for all individual citizens of the European Union (EU) and the European Economic Area (EEA). It also addresses the transfer of personal data outside the EU and EEA areas.
 
-** *Data Suppression* - Data is suppressed and omitted from data analytics and visualization when N<10, e.g., when there are less than 10 patients in a ZIP code. At times, data is suppressed when N<11, in other words, an N of 10 is also suppressed.  This is to ensure de-identified data cannot be easily re-identified. 
+** *Data Suppression* - Data is suppressed and omitted from data analytics and visualization when N<10, e.g., when there are less than 10 patients in a ZIP code. At times, data is suppressed when N<11, in other words, an N of 10 is also suppressed.  This is to ensure de-identified data cannot be easily re-identified.
 
 * Data Harvesting – By following OGC open data standards, an SDI enables the harvesting of data sets that are stored in different locations. This expands the accessibility and availability of data without duplicating the overhead associated with data storage and management.
 
-* Data Analysis – Numerous tools can be made available through and housed on an SDI for the purposes of analyzing data to provide decision support and predictive capabilities – as well as pre-processing the data.  This can be as simple as a filter (such as to visualize ony those postal codes where the population exceeds 10,000 individuals) and as complex as machine learning-based artificial intelligence (AI) algorithms (such as a regression analysis to predict future adverse health events, such as a maternal mortality). 
+* Data Analysis – Numerous tools can be made available through and housed on an SDI for the purposes of analyzing data to provide decision support and predictive capabilities – as well as pre-processing the data.  This can be as simple as a filter (such as to visualize ony those postal codes where the population exceeds 10,000 individuals) and as complex as machine learning-based artificial intelligence (AI) algorithms (such as a regression analysis to predict future adverse health events, such as a maternal mortality).
 
 
 === Data Requirements
 
-The following table provides information about the data, its type and application area.
 
+For the data requirements the following types of data are assumed:
+
+* Vector data: Data that can be represented as points, lines or polygons. Tabular data can be represented in vector format if there is a column that provides the geospatial coordinates.
+* Coverage data: Usually gridded data including raster and model outputs that has a grid as a reference.
+* Sensor data: Data is more dynamic in nature than vector and coverages, usually a time series of a sensor in particular location
+Formats and Standards include:
+
+
+[glossary]
+
+https://tools.ietf.org/html/rfc4180[CSV]:: Encoding to represent data in a tabular format, separated by a comma.
+
+https://www.ogc.org/standards/cat[CSW]:: The OGC Catalog Services for the Web provides a web interface to discover, get and update geospatial resources, including data and services.
+
+https://www.esri.com/library/whitepapers/pdfs/shapefile.pdf[ESRI Shapefile]:: Esri vector data format for storing information about geographic features.
+
+https://tools.ietf.org/html/rfc7946[GeoJSON]:: This is an encoding standard, by the Internet Engineering Task Force (IETF), for vector data written in JSON.
+
+https://www.ogc.org/standards/geopackage[GeoPackage]:: An open, standards-based, platform-independent, portable, self-describing, compact format for storing vector features, imagery and raster maps in an SQLite database.
+
+https://www.ogc.org/standards/geosparql[GeoSPARQL]:: OGC standard for representing and querying geospatial data on the Semantic Web. It extends SPARQL to allow querying of geospatial data and provides the language to represent geospatial data in RDF.
+https://www.ogc.org/standards/gml[GML]:: The OGC Geography Markup Language, based on XML, is used to represent and share geospatial features. It also provides the means to define conceptual models (i.e. features types).
+https://gtfs.org[GTFS]:: Encoding for sharing transit data. It is composed of a set of CSV files grouped together under a zip file.
+https://wiki.openmrs.org/display/docs/SDMX-HD[HL7 SDMX-HD]:: HL7 https://wiki.openmrs.org/display/docs/SDMX-HD[SDMX-HD] (Health Domain) is a WHO implementation of the ISO’s more general purpose Statistical Data and Metadata eXchange (SDMX) standard, and allows medical facilities to share and exchange medical indicators and metadata between medical organizations.
+
+https://www.iso.org/obp/ui/#iso:std:iso:19115:-1:ed-1:v1:en[ISO 19115-1] and https://www.iso.org/obp/ui/#iso:std:iso:ts:19115:-3:ed-1:v1:en[19115-3]:: Geographic information — Metadata Model and XML Schema (replacements for https://www.iso.org/obp/ui/#iso:std:iso:19115:ed-1:v1:en[ISO 19115:2003] and https://www.iso.org/standard/32557.html[ISO 19139])
+https://www.iso.org/obp/ui/#iso:std:iso:19117:ed-2:v1:en[ISO 19117]:: Geographic information — Portrayal. Specifies a conceptual schema for describing symbols, portrayal functions that map geospatial features to symbols, and the collection of symbols and portrayal functions into portrayal catalogs.
+https://www.ogc.org/standards/kml[KML]:: OGC standard, formally known as Key Hole Markup Language, is an XML language for expressing geographic annotation and visualization for two-dimensional and three-dimensional representations of the Earth.
+https://www.ogc.org/standards/om[O&M]:: The OGC Observations and Measurements defines a conceptual schema for encoding observations.
+
+https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=emergency[OASIS EDXL HAVE]:: OASIS EDXL HAVE
+The https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=emergency[OASIS Committee Specification Emergency Data Exchange Language (EDXL) Hospital Availability Exchange (HAVE)], released in January 2019, is an XML messaging standard primarily for exchange of information related to health facilities in the context of emergency management. HAVE supports sharing information about facility services, bed counts, operations, capacities, and resource needs so first responders, emergency managers, coordinating organizations, hospitals, care facilities, and the health community can provide each other with a coherent view of the health system.
+
+https://www.ogc.org/standards/ogcapi-features[OGC API - Features]:: This OGC standard provides Application Programming Interface (API) building blocks to create, modify and query features on the Web.
+
+https://wiki.openstreetmap.org/wiki/OSM_XML[OSM]:: Open Street Map data format encoded in XML. The model is composed of nodes, ways, and relations. Usually, the file ends with .osm. If compressed then the file will end with .bz2 or .pbf.
+https://www.w3.org/TR/owl2-primer/[OWL]:: The W3C Web Ontology Language is a standard for encoding ontologies or rich conceptual models. It is built on the RDF model.
+https://www.w3.org/TR/rdf11-primer/[RDF] / https://www.w3.org/TR/skos-reference[SKOS]:: The W3C Resource Description Framework (RDF) provides a language to encode ontologies (rich conceptual models) or simple controlled vocabularies (e.g. multilingual gazetteers.)
+https://www.ogc.org/standards/sld[SLD]:: The OGC Styled Layer Descriptor is a standard that enables an application to configure in an XML document how to properly portray layers and legends in a WMS. It uses the OGC Symbology Encoding (SE) standard to specify styling of features and coverages.
+https://www.ogc.org/standards/sos[SOS]:: The OGC Sensor Observation Service provides a web interface to query sensor systems and data from sensors.
+https://www.w3.org/TR/sparql11-overview/[SPARQL]:: W3C recommended language to query RDF resources.
+https://www.ogc.org/standards/wcs[WCS]:: The OGC Web Coverage Service provides a web interface for querying coverages (i.e. digital geospatial information that varies in space and time).
+https://www.ogc.org/standards/wfs[WFS]:: The OGC Web Feature Service provides a web interface for querying and updating geographical features (i.e. vector data).
+https://www.ogc.org/standards/wms[WMS]:: The OGC Web Map Service Interface Standard provides a web interface for requesting map images over the web.
+https://www.ogc.org/standards/wps[WPS]:: The OGC Web Processing Service provides a web interface to run processes (e.g. classification, buffer, clipping, and geocoding).
+
+The following table provides information about the data, its type and application area.
+[#table_countries,reftext='{table-caption} {counter:table-num}']
+.Data requirements
 [format="csv",options="header"]
 |===================================================
 Name, Description, Type, Application Area, Standards
@@ -61,50 +109,12 @@ Name, Description, Type, Application Area, Standards
 Population Data, "Population Demographic Data, Global Indicators", Vector, "Climate Health, Public health, Sociology", "CSV, WFS, GML"
 Socio-economic Statistics, "Socio-economic Data, e.g., Income, Education, etc.", Vector, "Climate Health, Public Health, Sociology", "CSV, WFS, GML"
 Healthcare Cost Data, "Data on Costs of Medical Encounters, Claims Data, Vector, Public Health, "CVS, WFS"
-Healthcare Outcomes Data, Survey Data, Vector, Public Health, "CVS, WPS, WMS, WFS, SLD, WCS, heirarachical and relational schemas"
+Healthcare Outcomes Data, Survey Data, Vector, Public Health, "CVS, WPS, WMS, WFS, SLD, WCS, hierarchical and relational schemas"
 Hospital Discharge Data, Medical Records Data, Vector, Public Health, CVS
-Social Vulnerability Indicies, Social Determinants of Health, Vector, "Public Health, Disaster Recovery","CVS, WFS" 
+Social Vulnerability Indices, Social Determinants of Health, Vector, "Public Health, Disaster Recovery","CVS, WFS"
 Weather, Predictive Models, Coverage, "Climatology, Disaster Recovery", "CSV, WFS, WMS, GML"
 Climate Data, Predictive Models, Vector, "Public Health, Disaster Recovery, Climate Health", "CSV, WFS, WMS, GML"
 Disaster Loss Data, Data on the Impact of Natural and Man-made Disasters, Vector, "Public Health, Disaster Recovery", "WFS, WMS, WCS"
 Remotely Sensed Data, Aerial Imagery Analysis, Coverage, "Climatology, Disaster Recovery, Public Health", "WFS, WMS, WCS"
 Sensor Data, "IoT, IoMT, Smart City, Sensors", Sensor, Public Health, OGC Sensor API
 |===================================================
-
-For the data requirements the following types of data are assumed:
-
-* Vector: Data that can be represented as point lines or polygons. Tabular data can be represented in vector format if there is a column that provides the geospatial coordinates.
-* Coverage: Usually gridded data including raster and model outputs that has a grid as a reference.
-* Sensor: Data is more dynamic in nature than vector and coverages, usually a time series of a sensor in particular location
-Formats and Standards include:
-
-
-[glossary]
-OASIS EDXL HAVE:: OASIS EDXL HAVE
-The https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=emergency[OASIS Committee Specification Emergency Data Exchange Language (EDXL) Hospital Availability Exchange (HAVE)], released in January 2019, is an XML messaging standard primarily for exchange of information related to health facilities in the context of emergency management. HAVE supports sharing information about facility services, bed counts, operations, capacities, and resource needs so first responders, emergency managers, coordinating organizations, hospitals, care facilities, and the health community can provide each other with a coherent view of the health system.
-
-
-HL7 SDMX-HD:: HL7 SDMX-HD
-https://wiki.openmrs.org/display/docs/SDMX-HD[SDMX-HD] (Health Domain) is a WHO implementation of the ISO’s more general purpose Statistical Data and Metadata eXchange (SDMX) standard, and allows medical facilities to share and exchange medical indicators and metadata between medical organizations.
-
-CSW:: The OGC Catalog Services for the Web provides a web interface to discover, get and update geospatial resources, including data and services.
-CSV:: Encoding to represent data in a tabular format, separated by a comma.
-GeoJSON:: Encoding for vector data written in JSON.
-GeoSPARQL:: OGC standard for representing and querying geospatial data on the Semantic Web. It extends SPARQL to allow querying of geospatial data and provides the language to represent geospatial data in RDF.
-GML:: The OGC Geography Markup Language, based on XML, is used to represent and share geospatial features. It also provides the means to define conceptual models (i.e. features types).
-GTFS:: Encoding for sharing transit data. It is composed of a set of CSV files grouped together under a zip file.
-ISO 19115 and 19139:: Geographic information — Metadata Model and XML Schema
-ISO 19117:: Geographic information — Portrayal. Specifies a conceptual schema for describing symbols, portrayal functions that map geospatial features to symbols, and the collection of symbols and portrayal functions into portrayal catalogs.
-KML:: OGC standard, formally known as Key Hole Markup Language, is an XML language for expressing geographic annotation and visualization for two-dimensional and three-dimensional representations of the Earth.
-O&M:: The OGC Observations and Measurements defines a conceptual schema for encoding observations.
-Shapefile:: Esri vector data format for storing information about geographic features.
-OSM:: Open Street Map data format encoded in XML. The model is composed of nodes, ways, and relations. Usually, the file ends with .osm. If compressed then the file will end with .bz2 or .pbf.
-OWL:: The W3C Web Ontology Language, is the de facto language to encode ontologies or rich conceptual models. It is built on the RDF model.
-RDF/SKOS:: The W3C Resource Description Framework provides a language to encode ontologies (rich conceptual models) or simple controlled vocabularies (e.g. multilingual gazetteers.)
-SLD:: The OGC Styled Layer Descriptor is a standard that enables an application to configure in an XML document how to properly portray layers and legends in a WMS. It uses Symbology Ending (SE) to specify styling of features and coverages.
-SOS:: The OGC Sensor Observation Service provides a web interface to query sensors systems and data from sensors.
-SPARQL:: W3C recommended language to query RDF resources.
-WCS:: The OGC Web Coverage Service provides a web interface for querying coverages (i.e. digital geospatial information that varies in space and time).
-WFS:: The OGC Web Feature Service provides a web interface for querying and updating geographical features (i.e. vector data).
-WMS:: The OGC Web Map Service Interface Standard provides a web interface for requesting map images over the web.
-WPS:: The OGC Web Processing Service provides a web interface to run processes (e.g. classification, buffer, clipping, and geocoding).
