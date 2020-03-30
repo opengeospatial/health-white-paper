@@ -1,7 +1,7 @@
 [[Initiatives,Chapter 3]]
 == Initiatives
 
-Numerous initiatives (including standards and projects) within the health and geospatial domain can provide patterns and best practices for the building of a Health SDI. Several were reviewed for this purpose and are discuss below.
+Numerous initiatives (including standards and projects) within the health and geospatial domain can provide patterns and best practices for the building of a Health SDI. Several were reviewed for this purpose and are discussed below.
 
 [#geo-Task-eo-health]
 === GEO Task US-09-01a Critical Earth Observations Priorities for Health Societal Benefit
@@ -11,7 +11,7 @@ Experts under the https://www.earthobservations.org/index.php[Group on Earth Obs
 2.	Aeroallergens – focusing on airborne substances such as pollen and spores
 3.	Infectious Disease – focusing diseases influenced by climate and environmental factors
 
-Three teams documented requirements for Earth Observation in each of these areas.
+Three teams documented https://sbageotask.larc.nasa.gov/humanhealth.html[requirements] for Earth Observation in each of these areas.
 
 [#eo4health]
 === EO4HEALTH
@@ -35,7 +35,7 @@ The project started on February 1, 2010 and ended on May 31, 2013 with results p
 
 The http://www.nrcan.gc.ca/earth-sciences/geomatics/canadas-spatial-data-infrastructure/10783[Canadian Geospatial Data Infrastructure (CGDI)] implements a framework for data sharing and data integration by using standard based technologies. It has adopted many specifications addressed by the OGC, the Federal Geographic Data Committee (FGDC), the World Wide Web Consortium (W3C), and the ISO/TC211 standards committee on Geographic Information/Geomatics in describing, publishing, visualizing, accessing and manipulating geospatial resources, such as Catalog services interface, Web Map Service (WMS), Styled Layer Descriptor (SLD), Web Feature Service (WFS), and Web Processing Service (WPS) among others. These services can be chained together to implement complex tasks by defining a workflow, as was done in a pandemic simulation in 2007 funded by GeoConnections – Natural Resources Canada and the U.S. Geological Survey (USGS).
 
-The collaboration between different governmental entities ensures interoperability for the CGDI. The GeoConnection program’s http://publications.gc.ca/collections/collection_2016/rncan-nrcan/M104-8-2012-eng.pdf[3 phases], listed below, were completed as of 2015:
+The collaboration between different governmental entities ensures interoperability for the CGDI. The GeoConnections program’s http://publications.gc.ca/collections/collection_2016/rncan-nrcan/M104-8-2012-eng.pdf[3 phases], listed below, were completed as of 2015:
 
 1.	Establish and Build – to build the infrastructure of the CGDI
 2.	Evolve and Expand – focused on promoting the CGDI among user communities

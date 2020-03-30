@@ -1,4 +1,4 @@
-:Title: Health Spatial Information Framework White Paper
+:Title: Health Spatial Data Infrastructure: Application Areas, Recommendations, and Architecture
 :titletext: {Title}
 :doctype: book
 :encoding: utf-8
@@ -21,9 +21,9 @@
 |Approval Date:   <yyyy-mm-dd>
 |Publication Date:   <yyyy-mm-dd>
 |External identifier of this OGC(R) document: http://www.opengis.net/doc/{doc-type}/{standard}/{m.n}
-|Internal reference number of this OGC(R) document:    YY-nnnrx
+|Internal reference number of this OGC(R) document:    19-076
 |Category: OGC(R) White Paper
-|Editors:   Eddie Oldfield, Luis Bermudez, Ajay K. Gupta
+|Editors:   Gupta, AJAY, Bermudez, LUIS, Oldfield, EDDIE, Serich, SCOTT
 |===
 
 [cols = "^", frame = "none"]

@@ -30,7 +30,7 @@ All questions regarding this submission should be directed to the following:
 [width="80%",options="header"]
 |====================
 |Name |Organization
-|Luis Bermudez | OGC
+|Luis Bermudez | GeoSolutions
 |Eddie Oldfield | Spatial Quest
 |Scott Serich | OGC
 |Ajay K. Gupta | HSR.health
