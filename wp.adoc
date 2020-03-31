@@ -24,7 +24,7 @@
 |External identifier of this OGC(R) document: http://www.opengis.net/doc/WP/Health-SDI
 |Internal reference number of this OGC(R) document:    19-076
 |Category: OGC(R) White Paper
-|Editors:   Gupta, AJAY, Bermudez, LUIS, Oldfield, EDDIE, Serich, SCOTT
+|Editors:   Ajay Gupta, Luis Bermudez, Eddie Oldfield, Scott Serich
 |===
 
 [cols = "^", frame = "none"]
